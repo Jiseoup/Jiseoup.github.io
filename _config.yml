@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   개발하면서 알게 된 새로운 내용을 기록하고, 많은 정보를 공유하고자 운영하는 블로그입니다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://Jiseoup.github.io"
+url: "https://jiseoup.github.io"
 
 github:
   username: Jiseoup # change to your github username
