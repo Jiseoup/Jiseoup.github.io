@@ -1,7 +1,7 @@
 ---
 title: PostgreSQL의 장점 소개 및 설치
 date: 2023-04-11 10:06:00 +09:00
-categories: [database, postgresql]
+categories: [Database, Postgresql]
 tags:
   [
     database,

@@ -1,7 +1,7 @@
 ---
-title: (pgAdmin) PostgreSQL Binary Path 설정하기
+title: "[pgAdmin] PostgreSQL Binary Path 설정하기"
 date: 2023-05-08 23:51:00 +09:00
-categories: [database, postgresql]
+categories: [Database, Postgresql]
 tags:
   [
     database,

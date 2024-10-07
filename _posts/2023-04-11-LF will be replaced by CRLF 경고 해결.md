@@ -1,7 +1,7 @@
 ---
 title: LF will be replaced by CRLF 경고 해결
 date: 2023-04-11 01:37:00 +09:00
-categories: [git, warning]
+categories: [Tools, Git]
 tags:
   [
     git,
