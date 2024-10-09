@@ -1,6 +1,7 @@
 ---
 title: "[Linux] useradd와 adduser의 차이"
 date: 2024-10-07 23:32:00 +09:00
+last_modified_at: 2024-10-07 23:32:00 +09:00
 categories: [Linux, Ubuntu]
 tags:
   [
