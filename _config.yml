@@ -26,7 +26,8 @@ description: >- # used by seo meta and the atom feed
   개발하면서 알게 된 새로운 내용을 기록하고, 많은 정보를 공유하고자 운영하는 블로그입니다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://jiseoup.github.io"
+# url: "https://jiseoup.github.io"
+url: "https://devpro.kr"
 
 github:
   username: Jiseoup # change to your github username
@@ -35,7 +36,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: PRO
-  email: jseoup@hanyang.ac.kr # change to your email address
+  email: jseoup@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Jiseoup # change to your github homepage
