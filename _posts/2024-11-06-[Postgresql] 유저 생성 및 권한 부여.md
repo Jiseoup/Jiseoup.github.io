@@ -1,8 +1,8 @@
 ---
-title: "[Postgresql] 유저 생성 및 권한 부여"
+title: "[PostgreSQL] 유저 생성 및 권한 부여"
 date: 2024-11-06 01:42:00 +09:00
 last_modified_at: 2024-11-06 01:42:00 +09:00
-categories: [Database, Postgresql]
+categories: [Database, PostgreSQL]
 tags:
   [
     database,
