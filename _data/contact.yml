@@ -3,6 +3,10 @@
 - type: github
   icon: 'fab fa-github'
 
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/jiseoup/'
+
 - type: instagram
   icon: 'fab fa-instagram'
   url: 'https://www.instagram.com/jiseoup/'
@@ -11,9 +15,9 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 
-- type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+# - type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 #
