@@ -25,9 +25,9 @@ tags:
     Postgresql Licensce,
     Postgresql 라이선스,
   ]
+image: "/assets/img/title/postgresql_logo_white.png"
 ---
 
-![postgresql](https://user-images.githubusercontent.com/104547731/231174985-833349e1-6e53-4963-aec9-0309e0c74cc7.png)  
 오늘은 관계형 데이터베이스(RDBMS)의 선두 주자 **Postgresql**의 **장점**과 **설치 방법**에 대해 알아보겠습니다.  
 
 **Postgresql**은 RDBMS의 **여러가지 기능을 제공**함과 동시에 **성능도 우수**하며,  
@@ -38,7 +38,7 @@ tags:
 
 아래는 2023년도 4월에 수집한 데이터베이스 엔진의 순위입니다.  
 > 출처: [DB-Engines Ranking](https://db-engines.com/en/ranking)
-> ![chart](https://user-images.githubusercontent.com/104547731/231175579-f8201cbb-fa4a-4ce5-922d-1db8196313a7.png)  
+> ![database_rank](/assets/img/posts/database/postgresql/database_rank.png)  
 
 ## 1. PostgreSQL 다운로드
 ---
@@ -47,13 +47,13 @@ tags:
 
 다운로는 [PostgreSQL 공식 사이트](https://www.postgresql.org/)에서 진행할 수 있습니다.  
 Download 버튼을 클릭하여 아래 페이지로 이동해 줍니다.  
-![download](https://user-images.githubusercontent.com/104547731/231184283-87cbbb3a-2520-495f-9b88-5b2ef6584fff.png)  
+![download_postgresql_1](/assets/img/posts/database/postgresql/download_postgresql_1.png)  
 저희는 Windows 환경에서 다운로드할 것이기 때문에, 당연하게 Windows를 선택하여 다음 화면으로 넘어갑니다.  
 
-![download2](https://user-images.githubusercontent.com/104547731/231184833-d58eb4a1-dc59-4ff0-ba5d-026652fea5e9.png)  
+![download_postgresql_2](/assets/img/posts/database/postgresql/download_postgresql_2.png)  
 맨 상단의 Download the installer를 선택하여 다운로드 페이지로 이동합니다.  
 
-![download3](https://user-images.githubusercontent.com/104547731/231185440-1537bef6-df45-4d8c-8f82-978889964897.png)  
+![download_postgresql_3](/assets/img/posts/database/postgresql/download_postgresql_3.png)  
 위 페이지에는 현재 PostgreSQL에 대한 **Stable Version**들이 나열됩니다.  
 현 시점에서 가장 **최신 버전인 15.2 버전의 Windows x86-64를 선택하여 다운로드** 합니다.  
 
@@ -61,11 +61,11 @@ Download 버튼을 클릭하여 아래 페이지로 이동해 줍니다.
 ---
 다운로드가 완료되었다면, ***`postgresql-15.2-2-windows-x64.exe`*** 파일을 실행하여 설치를 진행합니다.  
 
-![path](https://user-images.githubusercontent.com/104547731/231187764-e05c4ea7-b9d1-4e73-b62c-bb113524147f.png)  
+![install_postgresql_1](/assets/img/posts/database/postgresql/install_postgresql_1.png)  
 
 초기 화면에서 Next를 누르고 나면, 설치 경로를 지정하는 설정이 나옵니다. 건들지 않고 넘어가도록 하겠습니다.  
 
-![tools](https://user-images.githubusercontent.com/104547731/231189171-cb8df95a-ce0b-4ea2-bedb-d820a9084594.png)  
+![install_postgresql_2](/assets/img/posts/database/postgresql/install_postgresql_2.png)  
 
 다음으로 PostgreSQL과 함께 설치할 도구를 선택해봅시다. 각 도구의 설명은 다음과 같습니다.
 * **PostgreSQL Server**  
@@ -81,26 +81,26 @@ Download 버튼을 클릭하여 아래 페이지로 이동해 줍니다.
 
 원하는 도구에 체크 표시를 누른 후, 아래 화면이 나올 때 까지 Next 버튼을 클릭합니다.  
 
-![passwd](https://user-images.githubusercontent.com/104547731/231191655-b8f1e2b7-5518-4674-8a8a-d151fd284d3c.png)  
+![install_postgresql_3](/assets/img/posts/database/postgresql/install_postgresql_3.png)  
 
 이제 PostgreSQL을 설치할 때, 기본으로 제공되는 superuser **`postgres`**의 비밀번호를 설정해 봅시다.  
 비밀번호는 기억하시기 좋은 번호로 설정하시면 됩니다.  
 
-![port](https://user-images.githubusercontent.com/104547731/231192504-6f6f6d26-8a60-4012-8f5d-04cdb356c4fc.png)  
+![install_postgresql_4](/assets/img/posts/database/postgresql/install_postgresql_4.png)  
 
 다음으로 포트 설정입니다. PostgreSQL은 **5432** 포트를 default로 지정합니다.  
 굳이 변경하지 않고 넘어가도록 하겠습니다.  
 
-![locale](https://user-images.githubusercontent.com/104547731/231192880-266bf1b8-c6d7-475c-aaa8-eb71b5267a87.png)  
+![install_postgresql_5](/assets/img/posts/database/postgresql/install_postgresql_5.png)  
 
 데이터베이스의 지역을 설정하는 부분입니다. 데이터베이스를 사용하고자 하는 국가를 선택해주시면 됩니다.  
 저는 `Korean, Korea`를 선택하고 넘어가도록 하겠습니다.  
 
-![install](https://user-images.githubusercontent.com/104547731/231193728-e0f7c9db-e2ba-40c7-9618-86a597317755.png)  
+![install_postgresql_6](/assets/img/posts/database/postgresql/install_postgresql_6.png)  
 
 이제 Next 버튼을 이어서 선택후, 기다려주시면 설치가 완료됩니다.  
 
-![complete](https://user-images.githubusercontent.com/104547731/231196819-ef02dfc2-d149-4ee7-872f-2bd30261bb2c.png)  
+![install_postgresql_7](/assets/img/posts/database/postgresql/install_postgresql_7.png)  
 
 ## 마무리
 ---

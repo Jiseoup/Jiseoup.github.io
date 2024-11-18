@@ -18,6 +18,7 @@ tags:
     명령어,
     우분투 유저 생성,
   ]
+image: "/assets/img/title/linux_logo_white.png"
 ---
 
 매우 유사해 보이지만, 서로 다른 기능을 제공하는 useradd와 adduser 명령어에 대해 알아보겠습니다.  
@@ -38,16 +39,17 @@ $ useradd [사용자 이름]
 아래 사진과 같이, useradd는 다른 옵션을 명시하지 않은 경우, 그저 사용자만 추가하는 모습을 볼 수 있습니다.  
 
 <p align="center" style="color:gray">
-  <img src="https://github.com/user-attachments/assets/942ee5c5-72f2-442d-b912-5a59c9abeb8c" alt="useradd_1" />
+  <img src="/assets/img/posts/linux/ubuntu/useradd_1.png" alt="useradd_1" />
   옵션 없이 useradd 명령어 수행
 </p>
 
 <p align="center" style="color:gray">
-  <img src="https://github.com/user-attachments/assets/c0bc52f9-c040-44ec-b41e-654e9c2a93d8" alt="useradd_2" />
+  <img src="/assets/img/posts/linux/ubuntu/useradd_2.png" alt="useradd_2" />
   홈 디렉토리가 존재하지 않는 모습
 </p>
 
-ℹ️ useradd 옵션에 대한 자세한 설명은 `useradd -h` 명령어를 통해 확인할 수 있습니다.  
+> useradd 옵션에 대한 자세한 설명은 `useradd -h` 명령어를 통해 확인할 수 있습니다.  
+{: .prompt-tip }
 
 ## 2. adduser
 ---
@@ -59,12 +61,12 @@ $ adduser [사용자 이름]
 아래 사진과 같이, adduser는 별다른 옵션 없이 사용자 생성 및 다른 여러가지 기능을 제공합니다.  
 
 <p align="center" style="color:gray">
-  <img src="https://github.com/user-attachments/assets/ca0c66a1-4ce3-41cd-88fb-8041184d0da8" alt="adduser_1" />
+  <img src="/assets/img/posts/linux/ubuntu/adduser_1.png" alt="adduser_1" />
   adduser 명령어 실행과 함께 제공되는 인터페이스
 </p>
 
 <p align="center" style="color:gray">
-  <img src="https://github.com/user-attachments/assets/77d20f4c-42c3-4955-9e49-aadab3dd3e9a" alt="adduser_2" />
+  <img src="/assets/img/posts/linux/ubuntu/adduser_2.png" alt="adduser_2" />
   홈 디렉토리가 존재하는 모습
 </p>
 

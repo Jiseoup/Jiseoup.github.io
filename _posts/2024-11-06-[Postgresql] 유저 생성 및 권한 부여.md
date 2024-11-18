@@ -23,6 +23,7 @@ tags:
     관계형데이터베이스,
     관계형디비,
   ]
+image: "/assets/img/title/postgresql_logo_white.png"
 ---
 
 이번 포스팅에서는 PostgreSQL 데이터베이스에서 유저 생성과 권한 부여 방법에 대해 알아보겠습니다.  
@@ -32,7 +33,7 @@ tags:
 데이터베이스 유저와 권한을 조회하는 방법은 매우 간단합니다.  
 **`\du`** 커맨드를 통해 유저와 권한을 확인할 수 있습니다.  
 
-![user](https://github.com/user-attachments/assets/08b1e94e-a5fc-48a3-841e-fb6462592fac)  
+![psql_user_list](/assets/img/posts/database/postgresql/psql_user_list.png)  
 
 ## 2. 권한의 종류
 아래 테이블은 PostgreSQL에서 주로 사용하는 기본적인 ROLE을 정리한 테이블입니다.  
@@ -61,7 +62,7 @@ CREATE USER name [ [ WITH ] option [ ... ] ]
 
 예시로, DB 생성 권한과 ROLE 생성 권한을 가진 SUPERUSER를 만들고자 한다면, 아래와 같이 사용할 수 있습니다.  
 
-![create-user](https://github.com/user-attachments/assets/79dc3e81-4cdd-4f32-af95-5711e04dbc99)  
+![psql_create_user](/assets/img/posts/database/postgresql/psql_create_user.png)  
 
 ## 4. 권한 부여
 유저 생성 이후에도, 아래 커맨드를 통해 손쉽게 ROLE에 권한을 부여하거나 제거할 수 있습니다.  
@@ -71,7 +72,7 @@ ALTER ROLE role_specification [ WITH ] option [ ... ]
 
 예시로, SUPERUSER 권한을 제거하고, PASSWORD를 1234로 설정하고자 한다면, 아래와 같이 사용할 수 있습니다.  
 
-![alter-role](https://github.com/user-attachments/assets/60c98d17-c032-40f6-8eeb-1ff0c1d0c91c)  
+![psql_alter_role](/assets/img/posts/database/postgresql/psql_alter_role.png)  
 
 ## 마무리
 ---

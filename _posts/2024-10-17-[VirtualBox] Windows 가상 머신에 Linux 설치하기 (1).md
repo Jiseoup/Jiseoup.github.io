@@ -21,6 +21,7 @@ tags:
     버추얼박스,
     브이엠웨어,
   ]
+image: "/assets/img/title/virtualbox_logo_white.png"
 ---
 
 가상머신(Virtual Machine, VM)은 하나의 운영체제에서 다른 운영체제를 동시에 실행할 수 있는 유용한 도구입니다. 이를 통해 윈도우 환경에서 리눅스, macOS 등을 실행하거나, 반대로 리눅스 등 다른 운영체제에서 윈도우를 실행할 수 있습니다.  
@@ -38,7 +39,7 @@ tags:
 VirtualBox는 오픈소스 소프트웨어답게 매우 간편한 다운로드를 제공합니다.  
 먼저, [다운로드 페이지](https://www.virtualbox.org/wiki/Downloads)에 접속후, 자신이 현재 사용중인 운영체제에 알맞은 패키지를 다운로드 합니다.  
 
-![download](https://github.com/user-attachments/assets/dc1147f6-c24c-4fa8-9e9a-45942bd96756)  
+![download_vbox](/assets/img/posts/tools/virtualbox/download_vbox.png)  
 
 필자는 윈도우를 사용하고 있기 때문에, 윈도우 패키지 기반으로 설명을 이어가겠습니다.  
 
@@ -47,25 +48,25 @@ VirtualBox는 오픈소스 소프트웨어답게 매우 간편한 다운로드�
 ---
 설치는 거의 Next 버튼만 누르면 끝나는 수준이라, 중요한 부분만 캡쳐해서 업로드하도록 하겠습니다.  
 
-![install-1](https://github.com/user-attachments/assets/0c6e7e5f-3cf6-4dd0-b018-0d0555ae3d0b)  
+![install_vbox_1](/assets/img/posts/tools/virtualbox/install_vbox_1.png)  
 
 설치 경로 설정 및 함께 설치할 패키지를 선택하는 화면입니다.  
 딱히 건들지 않고 넘기도록 하겠습니다.  
 
-![install-2](https://github.com/user-attachments/assets/cee2a0f5-2dbd-4279-9bdc-7b476a3b0723)  
+![install_vbox_2](/assets/img/posts/tools/virtualbox/install_vbox_2.png)  
 
 일시적으로 네트워크가 끊길 수 있다는 경고인데, 그냥 넘기셔도 무방합니다.  
 
-![install-3](https://github.com/user-attachments/assets/77abc25f-55d9-4fb5-9347-5e1f266a1ce2)  
+![install_vbox_3](/assets/img/posts/tools/virtualbox/install_vbox_3.png)  
 
 Python으로 VirtualBox를 제어하실 분이 아니라면, 무시하고 넘기셔도 좋습니다.  
 경고가 불편하시다면 Python과 win32api를 설치하시면 됩니다.  
 
-![install-4](https://github.com/user-attachments/assets/e13d7803-c1dc-477c-957b-60adb57142ad)  
+![install_vbox_4](/assets/img/posts/tools/virtualbox/install_vbox_4.png)  
 
 설치를 진행하시다가, 이렇게 Finish 버튼이 나타나면 VirtualBox가 설치 완료 됩니다.  
 
-![virtualbox](https://github.com/user-attachments/assets/eed9fc2e-5dac-464c-8d07-e00782349cf5)  
+![install_vbox_5](/assets/img/posts/tools/virtualbox/install_vbox_5.png)  
 
 ## 마무리
 ---

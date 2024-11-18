@@ -15,6 +15,7 @@ tags:
     CRLF,
     LF will be replaced by CRLF,
   ]
+image: "/assets/img/title/git_logo_white.png"
 ---
 
 모든 작업을 마치고 git으로 저장소에 파일을 업로드하려고 하는데... 어랏?  
