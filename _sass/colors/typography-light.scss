@@ -37,15 +37,15 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113, 113, 113);
-  --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
-  --sidebar-border-color: #efefef;
-  --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
-  --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
+  --site-title-color: rgb(255, 255, 255);
+  --site-subtitle-color: #ffffff;
+  --sidebar-bg: #ffffff;
+  --sidebar-border-color: rgba(67, 94, 102, 0.8);
+  --sidebar-muted-color: #ffffff;
+  --sidebar-active-color: #ffffff;
+  --sidebar-hover-bg: rgba(67, 94, 102, 0.8);
   --sidebar-btn-bg: white;
-  --sidebar-btn-color: #8e8e8e;
+  --sidebar-btn-color: rgb(67, 94, 102);
   --avatar-border-color: white;
 
   /* Topbar */
