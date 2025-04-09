@@ -78,7 +78,7 @@ Django REST Framework(DRF)는 **Django 기반의 웹 애플리케이션에서 RE
 > [https://github.com/Jiseoup/DRF-Practice](https://github.com/Jiseoup/DRF-Practice)
 
 ### 2-2. 패키지 설치
-먼저 Django 프로젝트를 구성하기 위해 필요한 기본본 패키지를 설치합니다.  
+먼저 Django 프로젝트를 구성하기 위해 필요한 기본 패키지를 설치합니다.  
 ```bash
 sudo apt-get install python3-pip
 sudo apt-get install python3-venv
