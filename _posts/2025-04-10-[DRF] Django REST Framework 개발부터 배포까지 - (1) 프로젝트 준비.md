@@ -8,6 +8,7 @@ tags:
     django,
     DRF,
     Django REST Framework,
+    ORM,
     Backend,
     API,
     REST API,
@@ -127,7 +128,7 @@ python manage.py runserver
 
 브라우저에서 [http://localhost:8000](http://localhost:8000)에 접속하면 Django 기본 화면을 확인할 수 있습니다.  
 
-![django_install_successfully](/assets/img/posts/programming/django_rest_framework/django_install_successfully.png)  
+![django_install_successfully](/assets/img/posts/framework/django_rest_framework/django_install_successfully.png)  
 
 위와 같이 `The install worked successfully!` 메시지가 출력된다면, 프로젝트가 정상적으로 생성된 것입니다.  
 
