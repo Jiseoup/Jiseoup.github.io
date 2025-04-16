@@ -48,6 +48,8 @@ image: "/assets/img/title/drf_project/drf_project_2.png"
 이전 포스팅에서는 Django 프로젝트를 위한 개발 환경 구성을 살펴보았습니다.  
 이번 포스팅에서는 **데이터베이스(PostgreSQL) 설치부터 구성, Django 프로젝트와의 연동**까지 단계별로 알아보도록 하겠습니다.  
 
+{% include drf-project.html %}
+
 ## 1. PostgreSQL 설치 및 접속
 ---
 이번 프로젝트에서는 데이터베이스로 PostgreSQL을 사용할 예정입니다.  
@@ -308,7 +310,7 @@ class Comment(models.Model):
 ```
 
 Django에서는 위와 같이 **Python 클래스 형태로 데이터베이스 테이블을 정의**합니다.  
-이렇게 정의된 모델은 ORM(Object Relational Mapping)을 통해 자동으로 SQL 테이블로 변환되며, Python 코드만으로 손쉽게 데이터 CRUD 작업을 수행할 수 있습니다.  
+이렇게 정의된 모델은 ORM(Object-Relational Mapping)을 통해 자동으로 SQL 테이블로 변환되며, Python 코드만으로 손쉽게 데이터 CRUD 작업을 수행할 수 있습니다.  
 
 기본적으로 Django는 자체 ORM 사용을 권장하지만, 필요에 따라 SQLAlchemy와 같은 다른 ORM 도구를 함께 사용할 수도 있습니다. 또한 Raw Query 방식도 지원하므로, 프로젝트의 성격이나 개발자의 선호에 따라 유연하게 선택할 수 있습니다.  
 

@@ -55,6 +55,8 @@ image: "/assets/img/title/drf_project/drf_project_1.png"
 
 그럼 지금부터 시작합니다!  
 
+{% include drf-project.html %}
+
 ## 1. Django REST Framework(DRF) 란?
 ---
 Django REST Framework(DRF)는 **Django 기반의 웹 애플리케이션에서 REST API를 쉽게 개발할 수 있도록 도와주는 강력한 라이브러리입니다.** 기존 Django는 HTML 중심의 웹 페이지 렌더링에 특화되어 있지만, DRF는 JSON 형태로 데이터를 주고받는 API 서버 구축에 최적화되어 있습니다.  
