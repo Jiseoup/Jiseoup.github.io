@@ -141,6 +141,9 @@ Student.objects.filter(age__lte=15)
 # age가 13, 16, 19 중 하나인 데이터 조회
 Student.objects.filter(age__in=[13, 16, 19])
 
+# name이 'John' 또는 'Amy'인 데이터 조회 (문자열 비교 등에도 활용 가능)
+Student.objects.filter(name__in=['John', 'Amy'])
+
 # age가 13 이상 16 이하인 데이터 조회 (13 ≤ age ≤ 16)
 Student.objects.filter(age__range=(13, 16))
 ```
