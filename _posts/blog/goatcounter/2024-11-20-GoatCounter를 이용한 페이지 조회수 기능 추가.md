@@ -2,7 +2,7 @@
 title: "GoatCounter를 이용한 페이지 조회수 기능 추가"
 date: 2024-11-20 23:44:00 +09:00
 last_modified_at: 2024-11-20 23:44:00 +09:00
-categories: [Blog, Github Blog]
+categories: [Blog, GoatCounter]
 tags:
   [
     github,
