@@ -1,5 +1,5 @@
 ---
-title: "[DRF] Django REST Framework 개발부터 배포까지 - (3) Django ORM 파헤치기"
+title: "[Django REST Framework 개발부터 배포까지] (3) Django ORM 파헤치기"
 date: 2025-04-16 23:22:00 +09:00
 last_modified_at: 2025-04-16 23:22:00 +09:00
 categories: [Framework, Django REST Framework]

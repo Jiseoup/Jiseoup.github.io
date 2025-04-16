@@ -1,5 +1,5 @@
 ---
-title: "[DRF] Django REST Framework 개발부터 배포까지 - (2) 데이터베이스 구성과 연결"
+title: "[Django REST Framework 개발부터 배포까지] (2) 데이터베이스 구성과 연결"
 date: 2025-04-15 19:14:00 +09:00
 last_modified_at: 2025-04-15 19:14:00 +09:00
 categories: [Framework, Django REST Framework]

@@ -1,5 +1,5 @@
 ---
-title: "[DRF] Django REST Framework 개발부터 배포까지 - (1) 프로젝트 준비"
+title: "[Django REST Framework 개발부터 배포까지] (1) 프로젝트 준비"
 date: 2025-04-10 03:35:00 +09:00
 last_modified_at: 2025-04-10 03:35:00 +09:00
 categories: [Framework, Django REST Framework]
