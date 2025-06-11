@@ -25,6 +25,8 @@ tags:
     deploy,
     CI/CD,
     github actions,
+    jwt,
+    json web token,
     장고,
     장고 레스트 프레임워크,
     백엔드,
