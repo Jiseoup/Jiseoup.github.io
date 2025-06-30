@@ -15,5 +15,3 @@
 *.jpg binary
 *.ico binary
 
-*.vim linguist-vendored
-*.html linguist-vendored
