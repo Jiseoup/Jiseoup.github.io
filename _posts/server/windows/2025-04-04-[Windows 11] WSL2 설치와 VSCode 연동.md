@@ -2,7 +2,7 @@
 title: "[Windows 11] WSL2 설치와 VSCode 연동"
 date: 2025-04-04 03:34:00 +09:00
 last_modified_at: 2025-04-04 03:34:00 +09:00
-categories: [Windows, WSL]
+categories: [Server, Windows]
 tags:
   [
     wsl,
@@ -35,7 +35,7 @@ WSL 설치에 앞서, 몇 가지지 Windows 기능을 활성화야 합니다.
 * Linux용 Windows 하위 시스템
 * Virtual Machine Platform
 
-![windows_function](/assets/img/posts/windows/wsl/windows_function.png)  
+![windows_function](/assets/img/posts/server/windows/windows_function.png)  
 
 Powershell(관리자 권한)과 커맨드를 사용하여 보다 간편한 활성화도 가능합니다.  
 ```bash
@@ -113,13 +113,13 @@ swap=4GB
 ## 4. VSCode 연동
 ---
 마지막으로, WSL2 환경을 VSCode와 연동하기 위해 아래의 Extension을 설치합니다.  
-![vscode_wsl_extension](/assets/img/posts/windows/wsl/vscode_wsl_extension.png)  
+![vscode_wsl_extension](/assets/img/posts/server/windows/vscode_wsl_extension.png)  
 
 Extension 설치가 완료되었다면, 좌측 하단의 버튼을 통해 WSL 연결을 시도합니다.  
-![vscode_wsl_connection_1](/assets/img/posts/windows/wsl/vscode_wsl_connection_1.png)  
+![vscode_wsl_connection_1](/assets/img/posts/server/windows/vscode_wsl_connection_1.png)  
 
 WSL에 잘 연결되었다면, 리눅스 시스템 상의 원하는 디렉토리를 자유롭게 열고 사용할 수 있습니다.  
-![vscode_wsl_connection_2](/assets/img/posts/windows/wsl/vscode_wsl_connection_2.png)  
+![vscode_wsl_connection_2](/assets/img/posts/server/windows/vscode_wsl_connection_2.png)  
 
 ## 마무리
 ---

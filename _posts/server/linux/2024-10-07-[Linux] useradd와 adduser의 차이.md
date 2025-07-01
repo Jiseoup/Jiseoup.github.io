@@ -2,7 +2,7 @@
 title: "[Linux] useradd와 adduser의 차이"
 date: 2024-10-07 23:32:00 +09:00
 last_modified_at: 2024-10-07 23:32:00 +09:00
-categories: [Linux, Ubuntu]
+categories: [Server, Linux]
 tags:
   [
     linux,
@@ -39,12 +39,12 @@ $ useradd [사용자 이름]
 아래 사진과 같이, useradd는 다른 옵션을 명시하지 않은 경우, 그저 사용자만 추가하는 모습을 볼 수 있습니다.  
 
 <p align="center" style="color:gray">
-  <img src="/assets/img/posts/linux/ubuntu/useradd_1.png" alt="useradd_1" />
+  <img src="/assets/img/posts/server/linux/useradd_1.png" alt="useradd_1" />
   옵션 없이 useradd 명령어 수행
 </p>
 
 <p align="center" style="color:gray">
-  <img src="/assets/img/posts/linux/ubuntu/useradd_2.png" alt="useradd_2" />
+  <img src="/assets/img/posts/server/linux/useradd_2.png" alt="useradd_2" />
   홈 디렉토리가 존재하지 않는 모습
 </p>
 
@@ -61,12 +61,12 @@ $ adduser [사용자 이름]
 아래 사진과 같이, adduser는 별다른 옵션 없이 사용자 생성 및 다른 여러가지 기능을 제공합니다.  
 
 <p align="center" style="color:gray">
-  <img src="/assets/img/posts/linux/ubuntu/adduser_1.png" alt="adduser_1" />
+  <img src="/assets/img/posts/server/linux/adduser_1.png" alt="adduser_1" />
   adduser 명령어 실행과 함께 제공되는 인터페이스
 </p>
 
 <p align="center" style="color:gray">
-  <img src="/assets/img/posts/linux/ubuntu/adduser_2.png" alt="adduser_2" />
+  <img src="/assets/img/posts/server/linux/adduser_2.png" alt="adduser_2" />
   홈 디렉토리가 존재하는 모습
 </p>
 

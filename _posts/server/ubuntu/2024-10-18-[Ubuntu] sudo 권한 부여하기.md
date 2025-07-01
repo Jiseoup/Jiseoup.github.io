@@ -2,7 +2,7 @@
 title: "[Ubuntu] sudo 권한 부여하기"
 date: 2024-10-18 00:03:00 +09:00
 last_modified_at: 2024-10-18 00:03:00 +09:00
-categories: [Linux, Ubuntu]
+categories: [Server, Ubuntu]
 tags:
   [
     linux,
