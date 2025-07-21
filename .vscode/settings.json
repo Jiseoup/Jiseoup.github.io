@@ -1,7 +1,6 @@
 {
   // Prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
   // Shopify Liquid
   "files.associations": {
     "*.html": "liquid"
@@ -26,5 +25,8 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
   }
 }
