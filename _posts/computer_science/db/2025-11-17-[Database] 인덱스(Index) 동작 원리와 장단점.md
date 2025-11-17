@@ -2,7 +2,7 @@
 title: "[Database] 인덱스(Index) 동작 원리와 장단점"
 date: 2025-11-17 16:51:00 +09:00
 last_modified_at: 2025-11-17 16:51:00 +09:00
-categories: [Computer Science, Database]
+categories: [Computer Science, DB]
 tags:
   [
     컴퓨터공학,
@@ -31,7 +31,7 @@ tags:
     B+Tree,
     B*Tree,
   ]
-image: "/assets/img/title/computer_science/database/index.png"
+image: "/assets/img/title/computer_science/db/index.png"
 ---
 
 ## 1. 인덱스(Index)란?
@@ -56,7 +56,7 @@ image: "/assets/img/title/computer_science/database/index.png"
 
 특히, **Leaf Node**들은 **연결 리스트(Linked List)**로 연결되어 있어 **범위 검색**에 매우 유리합니다.  
 
-![btree_index](/assets/img/posts/computer_science/database/btree_index.png)  
+![btree_index](/assets/img/posts/computer_science/db/btree_index.png)  
 
 예를 들어, `users` 테이블에 `user_id`라는 필드가 있고, 위 구조와 같은 인덱스가 설정되어 있다고 가정해봅시다.  
 
