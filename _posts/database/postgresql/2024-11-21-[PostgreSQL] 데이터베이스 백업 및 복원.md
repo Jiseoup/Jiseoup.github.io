@@ -35,7 +35,7 @@ tags:
     데이터베이스 롤백,
     데이터베이스 복원,
   ]
-image: "/assets/img/title/postgresql_logo_white.png"
+image: "/assets/img/title/database/postgresql/postgresql_logo_white.png"
 ---
 
 이번 포스팅에서는 PostgreSQL에서 데이터베이스 백업 및 복원하는 방법에 대해 알아보겠습니다.  

@@ -24,7 +24,7 @@ tags:
     관계형데이터베이스,
     관계형디비,
   ]
-image: "/assets/img/title/postgresql_alter_table.png"
+image: "/assets/img/title/database/postgresql/postgresql_alter_table.png"
 ---
 
 ### **1. 테이블 수정**

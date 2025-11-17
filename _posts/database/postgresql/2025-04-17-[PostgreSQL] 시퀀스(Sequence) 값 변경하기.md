@@ -26,7 +26,7 @@ tags:
     시퀀스,
     시퀀스 변경,
   ]
-image: "/assets/img/title/postgresql_logo_white.png"
+image: "/assets/img/title/database/postgresql/postgresql_logo_white.png"
 ---
 
 ## 1. 시퀀스(Sequence)란?
