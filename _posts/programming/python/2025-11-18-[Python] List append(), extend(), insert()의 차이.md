@@ -18,7 +18,7 @@ tags:
     리스트 확장,
     리스트 요소 추가,
   ]
-image: "/assets/img/title/python_logo_designed.png"
+image: "/assets/img/title/programming/python/python_logo_designed.png"
 ---
 
 Python에서 List에 요소를 추가하는 메서드로는 `append()`, `extend()`, `insert()` 3가지가 있습니다.  

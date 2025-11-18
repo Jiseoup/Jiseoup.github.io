@@ -24,7 +24,7 @@ tags:
     라이브러리,
     패키지,
   ]
-image: "/assets/img/title/pypi_logo_designed.png"
+image: "/assets/img/title/programming/python/pypi_logo_designed.png"
 ---
 
 모두들 Python 개발을 하면서 `pip install`을 통해 패키지를 설치하고 사용한 경험이 있으실 겁니다.  

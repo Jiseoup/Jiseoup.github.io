@@ -21,7 +21,7 @@ tags:
     식별 연산자,
     비교 연산자,
   ]
-image: "/assets/img/title/python_logo_white.png"
+image: "/assets/img/title/programming/python/python_logo_white.png"
 ---
 
 Python에서 **`None`**을 체크할 때, **`== None`** 보다 **`is None`**이 권장되는 이유가 무엇일까요?  
