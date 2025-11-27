@@ -23,7 +23,7 @@ tags:
     퍼미션,
     권한,
   ]
-image: "/assets/img/title/ubuntu_logo_white.png"
+image: "/assets/img/title/server/ubuntu/ubuntu_logo_white.png"
 ---
 
 Ubuntu에서 유저에게 sudo 권한을 부여하는 방법은 매우 간단합니다.  

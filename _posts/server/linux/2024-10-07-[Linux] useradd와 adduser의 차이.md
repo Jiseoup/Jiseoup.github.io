@@ -18,7 +18,7 @@ tags:
     명령어,
     우분투 유저 생성,
   ]
-image: "/assets/img/title/linux_logo_white.png"
+image: "/assets/img/title/server/linux/linux_logo_white.png"
 ---
 
 매우 유사해 보이지만, 서로 다른 기능을 제공하는 useradd와 adduser 명령어에 대해 알아보겠습니다.  
