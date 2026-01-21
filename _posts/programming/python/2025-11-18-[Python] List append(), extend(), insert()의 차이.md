@@ -6,17 +6,14 @@ categories: [Programming, Python]
 tags:
   [
     python,
+    파이썬,
     list,
+    리스트,
     append,
     extend,
     insert,
-    파이썬,
-    파이썬 문법,
-    파이썬 기초,
-    리스트,
-    리스트 추가,
-    리스트 확장,
-    리스트 요소 추가,
+    문법,
+    추가,
   ]
 image: "/assets/img/title/programming/python/python_logo_designed.png"
 ---

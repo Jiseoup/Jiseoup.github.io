@@ -5,31 +5,14 @@ last_modified_at: 2025-11-17 16:51:00 +09:00
 categories: [Computer Science, DB]
 tags:
   [
-    컴퓨터공학,
-    컴퓨터과학,
+    database,
     데이터베이스,
-    데이터베이스 튜닝,
-    데이터베이스 최적화,
-    데이터베이스 성능 최적화,
+    index,
+    인덱스,
+    b-tree,
+    성능,
     쿼리 튜닝,
     쿼리 최적화,
-    디비,
-    인덱스,
-    인덱스 동작,
-    인덱스 동작 원리,
-    인덱스 사용법,
-    인덱스 장점,
-    인덱스 단점,
-    인덱스 장단점,
-    비트리,
-    Computer Engineering,
-    Computer Science,
-    Database,
-    DB,
-    Index,
-    B-Tree,
-    B+Tree,
-    B*Tree,
   ]
 image: "/assets/img/title/computer_science/db/index.png"
 ---

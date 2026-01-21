@@ -6,23 +6,14 @@ categories: [Programming, Python]
 tags:
   [
     python,
-    pypi,
-    python package index,
-    python package,
-    python module,
-    pip,
-    pip module,
-    pip package,
-    pip install,
-    module,
-    library,
-    package,
     파이썬,
-    파이썬 패키지,
-    파이썬 모듈,
-    모듈,
-    라이브러리,
+    pypi,
+    pip,
     패키지,
+    라이브러리,
+    module,
+    모듈,
+    배포,
   ]
 image: "/assets/img/title/programming/python/pypi_logo_designed.png"
 ---

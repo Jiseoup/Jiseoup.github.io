@@ -6,20 +6,12 @@ categories: [Programming, Python]
 tags:
   [
     python,
-    none,
-    is none,
-    == none,
-    pep8,
-    operator,
-    identity operator,
-    comparison operator,
     파이썬,
-    파이썬 문법,
-    파이썬 기초,
-    코딩 스타일,
     연산자,
-    식별 연산자,
-    비교 연산자,
+    비교,
+    none,
+    is,
+    문법,
   ]
 image: "/assets/img/title/programming/python/python_logo_white.png"
 ---

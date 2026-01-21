@@ -5,24 +5,16 @@ last_modified_at: 2025-04-17 20:33:00 +09:00
 categories: [Framework, Django]
 tags:
   [
-    python,
     django,
-    Object Relational Mapping,
-    ORM,
-    Django ORM,
-    Model,
-    Django Model,
-    DateField,
-    TimeField,
-    DateTimeField,
+    python,
+    파이썬,
+    orm,
+    model,
+    모델,
+    datetime,
+    field,
     auto_now,
     auto_now_add,
-    파이썬,
-    장고,
-    오알엠,
-    장고 오알엠,
-    모델,
-    장고 모델,
   ]
 image: "/assets/img/title/django_logo_green.png"
 ---

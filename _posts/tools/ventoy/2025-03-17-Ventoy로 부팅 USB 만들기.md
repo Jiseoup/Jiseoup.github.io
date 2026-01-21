@@ -6,17 +6,14 @@ categories: [Tools, Ventoy]
 tags:
   [
     ventoy,
-    usb,
-    boot,
-    bootable usb,
-    windows,
-    linux,
-    부팅 usb,
     벤토이,
-    유에스비,
-    부팅,
-    부팅 유에스비,
+    usb,
+    부팅 usb,
+    boot,
+    booting,
+    windows,
     윈도우,
+    linux,
     리눅스,
   ]
 image: "/assets/img/title/ventoy_logo_design.png"

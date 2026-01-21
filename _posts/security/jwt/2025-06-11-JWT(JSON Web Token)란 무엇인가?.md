@@ -6,23 +6,15 @@ categories: [Security, JWT]
 tags:
   [
     jwt,
-    json web token,
     access token,
+    액세스 토큰,
     refresh token,
+    리프레시 토큰,
     token,
-    security,
-    authentication,
     토큰,
-    보안,
     인증,
-    web,
-    web security,
-    웹,
-    웹 보안,
-    backend,
-    백엔드,
-    api,
-    rest api,
+    인가,
+    보안,
   ]
 image: "/assets/img/title/jwt_logo_black.png"
 ---

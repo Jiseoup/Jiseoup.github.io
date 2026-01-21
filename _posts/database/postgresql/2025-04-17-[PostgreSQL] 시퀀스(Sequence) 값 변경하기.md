@@ -5,26 +5,12 @@ last_modified_at: 2025-04-17 19:07:00 +09:00
 categories: [Database, PostgreSQL]
 tags:
   [
-    database,
-    postgres,
     postgresql,
-    psql,
-    db,
-    rdb,
-    rdbms,
-    dbms,
-    sequence,
-    alter sequence,
     포스트그레스,
-    포스트그레에스큐엘,
-    포스트그레스큐엘,
-    포스그레,
+    database,
     데이터베이스,
-    디비,
-    관계형데이터베이스,
-    관계형디비,
+    sequence,
     시퀀스,
-    시퀀스 변경,
   ]
 image: "/assets/img/title/database/postgresql/postgresql_logo_white.png"
 ---

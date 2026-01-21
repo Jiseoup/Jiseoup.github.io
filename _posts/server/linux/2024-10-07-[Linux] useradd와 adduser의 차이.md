@@ -6,17 +6,13 @@ categories: [Server, Linux]
 tags:
   [
     linux,
-    ubuntu,
-    cli,
-    command,
-    command line,
-    adduser,
-    useradd,
     리눅스,
+    ubuntu,
     우분투,
-    커맨드,
+    useradd,
+    adduser,
+    command,
     명령어,
-    우분투 유저 생성,
   ]
 image: "/assets/img/title/server/linux/linux_logo_white.png"
 ---

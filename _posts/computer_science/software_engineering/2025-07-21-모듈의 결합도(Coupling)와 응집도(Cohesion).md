@@ -5,21 +5,12 @@ last_modified_at: 2025-07-21 11:09:00 +09:00
 categories: [Computer Science, Software Engineering]
 tags:
   [
-    컴퓨터공학,
-    컴퓨터과학,
     소프트웨어공학,
+    module,
     모듈,
     모듈화,
-    모듈의 독립성,
     결합도,
     응집도,
-    Computer Engineering,
-    Computer Science,
-    Software Engineering,
-    Module,
-    Modularization,
-    Coupling,
-    Cohesion,
   ]
 image: "/assets/img/title/coupling_and_cohesion.png"
 ---

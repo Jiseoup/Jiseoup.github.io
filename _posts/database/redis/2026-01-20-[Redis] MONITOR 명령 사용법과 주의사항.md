@@ -6,7 +6,11 @@ categories: [Database, Redis]
 tags:
   [
     redis,
-    redis-cli,
+    레디스,
+    cache,
+    캐시,
+    명령어,
+    커맨드,
     monitor,
     디버깅,
     모니터링,

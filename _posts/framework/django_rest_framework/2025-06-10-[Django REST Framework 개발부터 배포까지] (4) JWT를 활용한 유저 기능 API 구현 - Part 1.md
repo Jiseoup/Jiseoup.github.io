@@ -1,48 +1,28 @@
 ---
+published: false  # TODO: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (4) JWT를 활용한 유저 기능 API 구현 - Part 1"
 date: 2025-06-10 17:00:00 +09:00
 last_modified_at: 2025-06-10 17:00:00 +09:00
 categories: [Framework, Django REST Framework]
+# TODO: 태그 정리 필요
 tags:
   [
-    django,
-    DRF,
-    Django REST Framework,
-    ORM,
-    Backend,
-    API,
-    REST API,
-    RESTful API,
-    python,
-    postgres,
-    postgresql,
-    swagger,
-    swagger ui,
-    server,
-    ubuntu,
-    nginx,
-    gunicorn,
-    deploy,
-    CI/CD,
-    github actions,
-    jwt,
-    json web token,
-    장고,
-    장고 레스트 프레임워크,
-    백엔드,
-    백엔드 개발,
-    파이썬,
-    포스트그레스,
-    포스트그레에스큐엘,
-    포스트그레스큐엘,
-    포스그레,
-    스웨거,
-    서버,
-    우분투,
-    엔진엑스,
-    구니콘,
-    배포,
-    깃허브 액션,
+    # django,
+    # drf,
+    # django rest framework,
+    # python,
+    # 파이썬,
+    # postgresql,
+    # swagger,
+    # nginx,
+    # gunicorn,
+    # ci/cd,
+    # github actions,
+    # jwt,
+    # api,
+    # rest api,
+    # backend,
+    # 백엔드,
   ]
 image: "/assets/img/title/drf_project/drf_project_4.png"
 ---

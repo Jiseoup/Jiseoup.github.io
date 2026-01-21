@@ -9,18 +9,11 @@ tags:
     wsl2,
     vscode,
     windows,
-    windows 11,
-    linux,
-    ubuntu,
-    ubuntu 24.04,
-    ubuntu 24.04 lts,
-    wsl 설치,
-    wsl2 설치,
     윈도우,
-    윈도우 11,
+    linux,
     리눅스,
+    ubuntu,
     우분투,
-    우분투 24.04,
   ]
 image: "/assets/img/title/server/windows/wsl_design.png"
 ---

@@ -6,15 +6,13 @@ categories: [Programming, Python]
 tags:
   [
     python,
+    파이썬,
     dict,
-    dictionary,
+    딕셔너리,
     get,
     keyerror,
-    파이썬,
-    딕셔너리,
     키 에러,
-    키 조회,
-    키 값 조회,
+    조회,
   ]
 image: "/assets/img/title/programming/python/python_logo_designed_2.png"
 ---

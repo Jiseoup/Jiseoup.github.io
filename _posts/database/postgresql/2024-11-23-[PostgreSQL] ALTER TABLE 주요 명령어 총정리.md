@@ -5,24 +5,13 @@ last_modified_at: 2024-11-23 01:31:00 +09:00
 categories: [Database, PostgreSQL]
 tags:
   [
-    database,
     postgresql,
-    psql,
-    db,
-    rdb,
-    rdbms,
-    dbms,
-    postgres,
-    alter table,
-    alter column,
     포스트그레스,
-    포스트그레에스큐엘,
-    포스트그레스큐엘,
-    포스그레,
+    database,
     데이터베이스,
-    디비,
-    관계형데이터베이스,
-    관계형디비,
+    alter,
+    alter table,
+    ddl,
   ]
 image: "/assets/img/title/database/postgresql/postgresql_alter_table.png"
 ---

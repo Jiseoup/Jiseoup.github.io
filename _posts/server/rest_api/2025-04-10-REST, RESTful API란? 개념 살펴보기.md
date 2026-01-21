@@ -6,20 +6,14 @@ categories: [Server, REST API]
 tags:
   [
     api,
-    REST,
-    RESTful,
-    REST API,
-    RESTful API,
-    uri,
+    rest,
+    restful,
+    rest api,
     http,
     http method,
-    get,
-    post,
-    put,
-    patch,
-    delete,
-    REST 원칙,
-    HTTP 메서드,
+    http 메서드,
+    uri,
+    url,
   ]
 image: "/assets/img/title/server/rest_api/rest_api.png"
 ---

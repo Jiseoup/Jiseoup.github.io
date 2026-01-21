@@ -5,26 +5,15 @@ last_modified_at: 2024-11-20 23:44:00 +09:00
 categories: [Blog, GoatCounter]
 tags:
   [
+    goatcounter,
+    analytics,
+    조회수,
     github,
     github blog,
-    blog,
-    views,
-    blog views,
-    github blog views,
-    goatcounter,
-    깃허브,
-    깃허브 블로그,
     블로그,
-    조회수,
-    조회수 기능,
-    블로그 조회수,
-    깃허브 블로그 조회수,
-    고트카운터,
-    velog,
-    tistory,
+    깃허브 블로그,
     jekyll,
-    chirpy,
-    jekyll-theme-chirpy,
+    ruby,
   ]
 image: "/assets/img/title/goatcounter_logo_white.png"
 ---

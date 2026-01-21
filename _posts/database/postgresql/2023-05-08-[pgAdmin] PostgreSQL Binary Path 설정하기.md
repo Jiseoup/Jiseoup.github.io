@@ -5,23 +5,12 @@ last_modified_at: 2023-05-08 23:51:00 +09:00
 categories: [Database, PostgreSQL]
 tags:
   [
-    database,
     postgresql,
-    psql,
-    db,
-    rdb,
-    rdbms,
-    dbms,
-    postgres,
-    pgadmin,
     포스트그레스,
-    포스트그레에스큐엘,
-    포스트그레스큐엘,
-    포스그레,
+    database,
     데이터베이스,
-    디비,
-    관계형데이터베이스,
-    관계형디비,
+    pgadmin,
+    binary path,
   ]
 image: "/assets/img/title/database/postgresql/postgresql_logo_white.png"
 ---

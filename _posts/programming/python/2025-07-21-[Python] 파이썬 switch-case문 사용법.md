@@ -6,27 +6,12 @@ categories: [Programming, Python]
 tags:
   [
     python,
-    switch,
-    case,
-    switch case,
-    switch-case,
-    conditional,
-    conditional statement,
-    control,
-    control statement,
-    syntax,
-    python syntax,
     파이썬,
-    스위치,
-    케이스,
-    스위치 케이스,
-    스위치-케이스,
-    조건,
+    switch case,
+    match case,
+    if else,
     조건문,
-    제어,
-    제어문,
     문법,
-    파이썬 문법,
   ]
 image: "/assets/img/title/programming/python/python_logo_designed.png"
 ---

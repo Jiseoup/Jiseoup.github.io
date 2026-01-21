@@ -7,13 +7,12 @@ tags:
   [
     git,
     github,
-    git warning,
-    git warning message,
-    git 경고,
-    git 경고 메시지,
-    LF,
-    CRLF,
-    LF will be replaced by CRLF,
+    깃허브,
+    warning,
+    경고,
+    lf,
+    crlf,
+    lf will be replaced by crlf,
   ]
 image: "/assets/img/title/git_logo_white.png"
 ---

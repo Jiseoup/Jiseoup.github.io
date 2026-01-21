@@ -6,26 +6,14 @@ categories: [Framework, Django]
 tags:
   [
     django,
-    DRF,
-    Django REST Framework,
-    Backend,
-    API,
-    REST API,
-    RESTful API,
-    python,
-    port,
-    ip,
     runserver,
-    장고,
-    장고 레스트 프레임워크,
-    백엔드,
-    백엔드 개발,
+    python,
     파이썬,
+    port,
     포트,
-    포트변경,
-    아이피,
-    아이피변경,
-    외부접속허용,
+    ip,
+    backend,
+    백엔드,
   ]
 image: "/assets/img/title/django_logo_green.png"
 ---

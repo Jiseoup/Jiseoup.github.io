@@ -5,27 +5,17 @@ last_modified_at: 2025-08-28 22:00:00 +09:00
 categories: [Framework, Spring Boot]
 tags:
   [
-    Spring,
-    Spring Boot,
-    Spring Data Redis,
-    Redis,
-    Backend,
-    Index,
-    Indexed,
-    '@Indexed',
-    TTL,
-    Time To Live,
-    Keyspace Notifications,
-    Orphan Data,
-    Annotation,
-    스프링,
-    스프링부트,
-    스프링 데이터 레디스,
+    spring,
+    spring boot,
+    redis,
     레디스,
-    백엔드,
+    indexed,
     인덱스,
-    고아 데이터,
+    ttl,
+    annotation,
     어노테이션,
+    backend,
+    백엔드,
   ]
 image: "/assets/img/title/spring_data_redis_indexed_designed.png"
 ---

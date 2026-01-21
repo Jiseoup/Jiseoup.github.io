@@ -5,22 +5,14 @@ last_modified_at: 2025-11-19 00:44:00 +09:00
 categories: [Programming, Basics]
 tags:
   [
-    프로그래밍,
-    프로그래밍 용어,
-    프로그래밍 기초,
-    코딩,
-    함수,
-    매개변수,
-    인자,
-    programming,
     function,
-    coding,
-    params,
+    함수,
     parameter,
-    parameters,
-    args,
+    파라미터,
+    매개변수,
     argument,
-    arguments,
+    아규먼트,
+    인자,
   ]
 image: "/assets/img/title/programming/basics/params_args.png"
 ---

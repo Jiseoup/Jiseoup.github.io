@@ -5,28 +5,14 @@ last_modified_at: 2025-11-17 22:27:00 +09:00
 categories: [Database, Redis]
 tags:
   [
-    Redis,
-    Redis Tutorial,
-    Redis Command,
-    Redis Optimization,
-    KEYS,
-    SCAN,
-    Cache,
-    Database,
-    DB,
-    In-Memory Database,
+    redis,
     레디스,
-    Redis 튜토리얼,
-    레디스 튜토리얼,
-    Redis 명령어,
-    레디스 명령어,
-    Redis 최적화,
-    레디스 최적화,
+    cache,
     캐시,
-    데이터베이스,
-    디비,
-    인메모리 데이터베이스,
-    인메모리 디비,
+    명령어,
+    커맨드,
+    keys,
+    scan,
   ]
 image: "/assets/img/title/database/redis/redis_logo_designed_1.png"
 ---

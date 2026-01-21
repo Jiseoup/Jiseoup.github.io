@@ -5,21 +5,15 @@ last_modified_at: 2024-10-17 22:43:00 +09:00
 categories: [Tools, VirtualBox]
 tags:
   [
-    virtual machine,
-    vm,
-    windows,
-    linux,
-    ubuntu,
-    macos,
     virtualbox,
-    vmware,
-    가상머신,
-    윈도우,
-    리눅스,
-    우분투,
-    맥os,
     버추얼박스,
-    브이엠웨어,
+    vm,
+    virtual machine,
+    가상머신,
+    windows,
+    윈도우,
+    linux,
+    리눅스,
   ]
 image: "/assets/img/title/virtualbox_logo_white.png"
 ---

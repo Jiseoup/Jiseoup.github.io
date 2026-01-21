@@ -7,21 +7,13 @@ tags:
   [
     google,
     google search console,
-    blog,
-    github blog,
-    jekyll,
-    jekyll blog,
     seo,
-    search engine,
-    search engine optimization,
-    구글,
-    구글 서치 콘솔,
+    검색 엔진,
+    github,
+    github blog,
     블로그,
     깃허브 블로그,
-    지킬,
-    지킬 블로그,
-    검색 엔진,
-    검색 엔진 최적화,
+    jekyll,
   ]
 image: "/assets/img/title/google_search_console_logo_white.png"
 ---

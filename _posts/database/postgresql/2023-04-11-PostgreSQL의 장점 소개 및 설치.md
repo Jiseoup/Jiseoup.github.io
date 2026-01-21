@@ -5,25 +5,12 @@ last_modified_at: 2023-04-11 10:06:00 +09:00
 categories: [Database, PostgreSQL]
 tags:
   [
-    database,
     postgresql,
-    psql,
-    db,
-    rdb,
-    rdbms,
-    dbms,
-    postgres,
     포스트그레스,
-    포스트그레에스큐엘,
-    포스트그레스큐엘,
-    포스그레,
+    database,
     데이터베이스,
-    디비,
-    관계형데이터베이스,
-    관계형디비,
-    라이선스,
-    Postgresql Licensce,
-    Postgresql 라이선스,
+    rdbms,
+    관계형 데이터베이스,
   ]
 image: "/assets/img/title/database/postgresql/postgresql_logo_white.png"
 ---

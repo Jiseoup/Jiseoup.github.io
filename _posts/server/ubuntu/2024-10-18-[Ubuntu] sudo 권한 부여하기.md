@@ -6,22 +6,14 @@ categories: [Server, Ubuntu]
 tags:
   [
     linux,
-    ubuntu,
-    cli,
-    command,
-    command line,
-    sudo,
-    superuser,
-    permission,
     리눅스,
+    ubuntu,
     우분투,
-    커맨드,
-    명령어,
-    수도,
-    수도권한,
-    슈퍼유저,
-    퍼미션,
+    sudo,
+    permission,
     권한,
+    superuser,
+    슈퍼유저,
   ]
 image: "/assets/img/title/server/ubuntu/ubuntu_logo_white.png"
 ---
