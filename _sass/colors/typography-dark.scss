@@ -34,16 +34,24 @@
   );
 
   /* Sidebar */
-  --site-title-color: #717070;
-  --site-subtitle-color: #868686;
+  --sidebar-bg-image: url('/assets/img/profile/sidebar-dark.png');
+  --sidebar-overlay: linear-gradient(
+    to bottom,
+    rgba(18, 24, 40, 0.55) 0%,
+    rgba(18, 24, 40, 0.32) 22%,
+    rgba(18, 24, 40, 0.0) 48%
+  );
+  --site-title-color: #eef3ff;
+  --site-subtitle-color: #b7c6e3;
   --sidebar-bg: #1e1e1e;
   --sidebar-border-color: #292929;
-  --sidebar-muted-color: #868686;
-  --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #262626;
-  --sidebar-btn-bg: #232328;
-  --sidebar-btn-color: #787878;
-  --avatar-border-color: rgb(206, 206, 206, 0.9);
+  --sidebar-muted-color: #d2dcf2;
+  --sidebar-active-color: #ffffff;
+  --sidebar-hover-bg: rgba(120, 150, 230, 0.28);
+  --sidebar-btn-bg: #1c2230;
+  --sidebar-btn-color: #dbe7ff;
+  --sidebar-btn-hover-bg: #263047;
+  --avatar-border-color: #ffffff;
 
   /* Topbar */
   --topbar-bg: rgb(27, 27, 30, 0.64);

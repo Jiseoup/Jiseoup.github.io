@@ -23,7 +23,7 @@ title: 프로의 개발일지 # the main title
 tagline: Developer PRO # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  개발하면서 알게 된 새로운 내용을 기록하고, 많은 정보를 공유하고자 운영하는 블로그입니다.
+  개발 과정에서 얻은 지식과 경험을 기록하고, 다른 개발자들과 유용한 정보를 나누며 함께 성장하기 위해 운영하는 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -93,7 +93,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: light # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -103,11 +103,11 @@ theme_mode: light # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/profile/profile.png"
+avatar: "/assets/img/profile/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "/assets/img/profile/profile.png" # string, local or CORS resources
+social_preview_image: "/assets/img/profile/preview.png" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true

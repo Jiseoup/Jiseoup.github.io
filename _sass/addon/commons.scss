@@ -689,8 +689,22 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url('/assets/img/profile/sidebar.png');
+    var(--sidebar-bg-image);
   border-right: 1px solid var(--sidebar-border-color);
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--sidebar-overlay);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  > * {
+    position: relative;
+    z-index: 1;
+  }
 
   /* Hide scrollbar for IE, Edge and Firefox */
   -ms-overflow-style: none; /* IE and Edge */
@@ -837,7 +851,7 @@ $btn-mb: 0.5rem;
       }
 
       &:hover {
-        background-color: var(--sidebar-hover-bg);
+        background-color: var(--sidebar-btn-hover-bg);
       }
     }
 

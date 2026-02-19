@@ -37,16 +37,24 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(255, 255, 255);
-  --site-subtitle-color: #ffffff;
-  --sidebar-bg: #ffffff;
-  --sidebar-border-color: rgba(67, 94, 102, 0.8);
-  --sidebar-muted-color: #ffffff;
-  --sidebar-active-color: #ffffff;
-  --sidebar-hover-bg: rgba(67, 94, 102, 0.8);
-  --sidebar-btn-bg: white;
-  --sidebar-btn-color: rgb(67, 94, 102);
-  --avatar-border-color: white;
+  --sidebar-bg-image: url('/assets/img/profile/sidebar-light.png');
+  --sidebar-overlay: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.65) 0%,
+    rgba(255, 255, 255, 0.45) 20%,
+    rgba(255, 255, 255, 0) 45%
+  );
+  --site-title-color: #3a4a5a;
+  --site-subtitle-color: #445a6c;
+  --sidebar-bg: #f6f8fa;
+  --sidebar-border-color: #efefef;
+  --sidebar-muted-color: #344654;
+  --sidebar-active-color: #14202b;
+  --sidebar-hover-bg: rgba(120, 175, 230, 0.45);
+  --sidebar-btn-bg: #ffffff;
+  --sidebar-btn-color: #344654;
+  --sidebar-btn-hover-bg: #e3eefb;
+  --avatar-border-color: #ffffff;
 
   /* Topbar */
   --topbar-bg: rgb(255, 255, 255, 0.7);
