@@ -17,7 +17,7 @@ tags:
     backend,
     백엔드,
   ]
-image: "/assets/img/title/spring_data_redis_indexed_designed.png"
+image: "/assets/img/title/framework/spring_boot/spring_data_redis_indexed.png"
 ---
 
 **[Spring Data Redis](https://spring.io/projects/spring-data-redis)**는 엔터티를 Redis에 매핑할 때, 일반적으로 **`@Id`로 지정된 키를 기준으로만 `findById()`와 같은 JPA 스타일의 CRUD 메서드를 지원**합니다.  

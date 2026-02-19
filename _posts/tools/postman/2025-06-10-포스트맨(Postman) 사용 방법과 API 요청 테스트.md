@@ -17,7 +17,7 @@ tags:
     request,
     response,
   ]
-image: "/assets/img/title/postman_logo_white.png"
+image: "/assets/img/title/tools/postman/logo_white.png"
 ---
 
 **Postman**은 API 테스트를 위한 도구로, 웹 개발에서 매우 자주 사용되는 강력한 도구 중 하나입니다.  

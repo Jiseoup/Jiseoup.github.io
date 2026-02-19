@@ -14,7 +14,7 @@ tags:
     keys,
     scan,
   ]
-image: "/assets/img/title/database/redis/redis_logo_designed_1.png"
+image: "/assets/img/title/database/redis/logo_designed_1.png"
 ---
 
 Redis를 사용하다 보면 특정 패턴의 키를 찾아야 하는 상황이 자주 발생합니다.  

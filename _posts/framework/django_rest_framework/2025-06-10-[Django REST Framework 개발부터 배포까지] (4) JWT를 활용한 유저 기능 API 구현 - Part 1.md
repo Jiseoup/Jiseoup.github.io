@@ -24,7 +24,7 @@ tags:
     # backend,
     # 백엔드,
   ]
-image: "/assets/img/title/drf_project/drf_project_4.png"
+image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_4.png"
 ---
 
 이번 포스팅에서는 **회원 가입 및 탈퇴, 로그인, 로그아웃**과 같은 유저 관련 기능을 구현하기 위한 준비 단계로,

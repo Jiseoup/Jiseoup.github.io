@@ -15,7 +15,7 @@ tags:
     ubuntu,
     우분투,
   ]
-image: "/assets/img/title/server/windows/wsl_design.png"
+image: "/assets/img/title/server/windows/wsl2.png"
 ---
 
 이번 포스팅에서는 WSL2를 사용해 Windows 환경에 Linux 환경을 구축하는 방법을 소개합니다.  

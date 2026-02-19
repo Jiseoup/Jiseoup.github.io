@@ -16,7 +16,7 @@ tags:
     field lookup,
     필드 룩업,
   ]
-image: "/assets/img/title/django_orm_field_lookup.png"
+image: "/assets/img/title/framework/django/orm_field_lookup.png"
 ---
 
 Django ORM은 등호 기호(=)를 이용한 기본적인 비교 외에도, 다양한 **Field Lookup**을 제공합니다.  

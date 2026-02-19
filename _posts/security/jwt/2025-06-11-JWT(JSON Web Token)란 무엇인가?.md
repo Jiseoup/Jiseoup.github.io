@@ -16,7 +16,7 @@ tags:
     인가,
     보안,
   ]
-image: "/assets/img/title/jwt_logo_black.png"
+image: "/assets/img/title/security/jwt_logo_black.png"
 ---
 
 ## 1. JWT 란?

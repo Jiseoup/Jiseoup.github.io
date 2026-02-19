@@ -15,7 +15,7 @@ tags:
     깃허브 블로그,
     jekyll,
   ]
-image: "/assets/img/title/google_search_console_logo_white.png"
+image: "/assets/img/title/blog/google_search_console/logo_white.png"
 ---
 
 요즘 들어 블로그 포스팅의 노출 빈도가 눈에 띄게 줄어든 것 같아 **Google Search Console**을 등록하게 되었습니다.  

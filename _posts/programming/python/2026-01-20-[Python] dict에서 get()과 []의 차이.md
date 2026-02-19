@@ -14,7 +14,7 @@ tags:
     키 에러,
     조회,
   ]
-image: "/assets/img/title/programming/python/python_logo_designed_2.png"
+image: "/assets/img/title/programming/python/logo_designed_2.png"
 ---
 
 Python 딕셔너리(dict)에서 값을 가져올 때는 보통 `dict.get('key')`와 `dict['key']` 두 가지를 사용합니다.  

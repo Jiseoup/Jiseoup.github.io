@@ -12,7 +12,7 @@ tags:
     pgadmin,
     binary path,
   ]
-image: "/assets/img/title/database/postgresql/postgresql_logo_white.png"
+image: "/assets/img/title/database/postgresql/logo_white.png"
 ---
 
 pgAdmin에서 **`Please configure the PostgreSQL Binary Path in the Preferences dialog.`** 에러가 발생했을 때, PostgreSQL Binary Path를 설정하는 방법을 알아보겠습니다.  

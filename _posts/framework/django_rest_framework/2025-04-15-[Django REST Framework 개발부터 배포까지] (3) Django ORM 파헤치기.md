@@ -24,7 +24,7 @@ tags:
     # backend,
     # 백엔드,
   ]
-image: "/assets/img/title/drf_project/drf_project_3.png"
+image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_3.png"
 ---
 
 이번 포스팅에서는 본격적인 API 개발에 앞서, **Django ORM**의 기본 사용법을 간단히 살펴보겠습니다.  

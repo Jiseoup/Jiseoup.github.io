@@ -13,7 +13,7 @@ tags:
     alter table,
     ddl,
   ]
-image: "/assets/img/title/database/postgresql/postgresql_alter_table.png"
+image: "/assets/img/title/database/postgresql/alter_table.png"
 ---
 
 ### **1. 테이블 수정**

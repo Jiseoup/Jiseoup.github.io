@@ -13,7 +13,7 @@ tags:
     조건문,
     문법,
   ]
-image: "/assets/img/title/programming/python/python_logo_designed.png"
+image: "/assets/img/title/programming/python/logo_designed_1.png"
 ---
 
 C/C++, Java 등 많은 언어에서는 조건 분기 처리를 위한 제어문으로 `switch-case` 문이 사용됩니다.  

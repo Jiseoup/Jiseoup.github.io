@@ -12,7 +12,7 @@ tags:
     결합도,
     응집도,
   ]
-image: "/assets/img/title/coupling_and_cohesion.png"
+image: "/assets/img/title/computer_science/software_engineering/coupling_and_cohesion.png"
 ---
 
 프로그램이 커지고 복잡해질수록 유지보수, 확장성, 협업 효율성이 더욱 중요해집니다.  

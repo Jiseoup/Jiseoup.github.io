@@ -24,7 +24,7 @@ tags:
     # backend,
     # 백엔드,
   ]
-image: "/assets/img/title/drf_project/drf_project_2.png"
+image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_2.png"
 ---
 
 이전 포스팅에서는 Django 프로젝트를 위한 개발 환경 구성을 살펴보았습니다.  

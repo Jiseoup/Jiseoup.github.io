@@ -24,7 +24,7 @@ tags:
     # backend,
     # 백엔드,
   ]
-image: "/assets/img/title/drf_project/drf_project_1.png"
+image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_1.png"
 ---
 
 이번 시리즈에서는 **`Django REST Framework(DRF)`**를 활용한 백엔드 프로젝트 개발 과정을 정리해보려고 합니다.  

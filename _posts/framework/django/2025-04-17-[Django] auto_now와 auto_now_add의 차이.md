@@ -16,7 +16,7 @@ tags:
     auto_now,
     auto_now_add,
   ]
-image: "/assets/img/title/django_logo_green.png"
+image: "/assets/img/title/framework/django/logo_green.png"
 ---
 
 ## 1. auto_now와 auto_now_add란?

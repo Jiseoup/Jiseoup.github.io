@@ -15,7 +15,7 @@ tags:
     메서드,
     crud,
   ]
-image: "/assets/img/title/django_orm_queryset_method.png"
+image: "/assets/img/title/framework/django/orm_queryset_method.png"
 ---
 
 Django 프로젝트를 진행하다 보면, 대부분 ORM을 통해 데이터베이스와 상호작용하게 됩니다.  
