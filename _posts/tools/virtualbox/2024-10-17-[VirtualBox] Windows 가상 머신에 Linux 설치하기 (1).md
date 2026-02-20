@@ -15,7 +15,7 @@ tags:
     linux,
     리눅스,
   ]
-image: "/assets/img/title/tools/virtualbox/logo_white.png"
+image: "/assets/img/title/tools/virtualbox/logo.png"
 ---
 
 가상머신(Virtual Machine, VM)은 하나의 운영체제에서 다른 운영체제를 동시에 실행할 수 있는 유용한 도구입니다. 이를 통해 윈도우 환경에서 리눅스, macOS 등을 실행하거나, 반대로 리눅스 등 다른 운영체제에서 윈도우를 실행할 수 있습니다.  

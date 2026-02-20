@@ -15,7 +15,7 @@ tags:
     linux,
     리눅스,
   ]
-image: "/assets/img/title/tools/virtualbox/logo_white.png"
+image: "/assets/img/title/tools/virtualbox/logo.png"
 ---
 
 > 이번 포스팅에서는 VirtualBox에 Linux 환경을 구성하는 방법에 대해 알아보겠습니다.  
