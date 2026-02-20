@@ -12,7 +12,7 @@ tags:
     sequence,
     시퀀스,
   ]
-image: "/assets/img/title/database/postgresql/logo_white.png"
+image: "/assets/img/title/database/postgresql/logo_designed_1.png"
 ---
 
 ## 1. 시퀀스(Sequence)란?

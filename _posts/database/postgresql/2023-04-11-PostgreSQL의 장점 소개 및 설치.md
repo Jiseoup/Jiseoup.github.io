@@ -12,7 +12,7 @@ tags:
     rdbms,
     관계형 데이터베이스,
   ]
-image: "/assets/img/title/database/postgresql/logo_white.png"
+image: "/assets/img/title/database/postgresql/logo_designed_1.png"
 ---
 
 오늘은 관계형 데이터베이스(RDBMS)의 선두 주자 **Postgresql**의 **장점**과 **설치 방법**에 대해 알아보겠습니다.  

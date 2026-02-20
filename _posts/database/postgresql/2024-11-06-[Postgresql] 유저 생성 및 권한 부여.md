@@ -14,7 +14,7 @@ tags:
     권한,
     grant,
   ]
-image: "/assets/img/title/database/postgresql/logo_white.png"
+image: "/assets/img/title/database/postgresql/logo_designed_2.png"
 ---
 
 이번 포스팅에서는 PostgreSQL 데이터베이스에서 유저 생성과 권한 부여 방법에 대해 알아보겠습니다.  
