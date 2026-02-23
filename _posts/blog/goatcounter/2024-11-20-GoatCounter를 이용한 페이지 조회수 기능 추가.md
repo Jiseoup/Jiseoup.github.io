@@ -15,7 +15,7 @@ tags:
     jekyll,
     ruby,
   ]
-image: "/assets/img/title/blog/goatcounter/logo_white.png"
+image: "/assets/img/title/blog/goatcounter/logo.png"
 ---
 
 GoatCounter는 간단한 설정만으로 페이지 조회수를 추적할 수 있는 경량화된 웹 분석 도구입니다.  

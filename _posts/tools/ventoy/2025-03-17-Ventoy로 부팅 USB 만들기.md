@@ -16,7 +16,7 @@ tags:
     linux,
     리눅스,
   ]
-image: "/assets/img/title/tools/ventoy/logo_designed.png"
+image: "/assets/img/title/tools/ventoy/logo.png"
 ---
 
 오늘은 Windows 10, Windows 11, Ubuntu 24.04 등, **여러 운영체제를 하나의 부팅 USB에서 설치할 수 있는 방법**에 대해 이야기해보려고 합니다. 사용할 프로그램은 **`Ventoy`** 라는 프로그램으로, 아주 간편하게 부팅 USB를 만들 수 있도록 도와줍니다.  
