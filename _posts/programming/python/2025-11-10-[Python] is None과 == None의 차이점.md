@@ -13,7 +13,7 @@ tags:
     is,
     문법,
   ]
-image: "/assets/img/title/programming/python/logo_white.png"
+image: "/assets/img/title/programming/python/logo_designed_3.png"
 ---
 
 Python에서 **`None`**을 체크할 때, **`== None`** 보다 **`is None`**이 권장되는 이유가 무엇일까요?  

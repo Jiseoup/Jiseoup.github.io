@@ -15,7 +15,7 @@ tags:
     모듈,
     배포,
   ]
-image: "/assets/img/title/programming/python/pypi_logo.png"
+image: "/assets/img/title/programming/python/pypi.png"
 ---
 
 모두들 Python 개발을 하면서 `pip install`을 통해 패키지를 설치하고 사용한 경험이 있으실 겁니다.  
