@@ -15,7 +15,7 @@ tags:
     uri,
     url,
   ]
-image: "/assets/img/title/server/rest_api/rest_api.png"
+image: "/assets/img/title/server/rest_api/title.png"
 ---
 
 웹 개발을 하다 보면 **REST API, RESTful API**라는 용어를 자주 접하게 됩니다.  
