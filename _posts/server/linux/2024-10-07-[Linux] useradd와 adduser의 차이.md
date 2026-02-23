@@ -14,7 +14,7 @@ tags:
     command,
     명령어,
   ]
-image: "/assets/img/title/server/linux/logo_white.png"
+image: "/assets/img/title/server/linux/logo_designed_1.png"
 ---
 
 매우 유사해 보이지만, 서로 다른 기능을 제공하는 useradd와 adduser 명령어에 대해 알아보겠습니다.  
