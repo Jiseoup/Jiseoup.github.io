@@ -15,7 +15,7 @@ tags:
     backend,
     백엔드,
   ]
-image: "/assets/img/title/framework/django/logo_green.png"
+image: "/assets/img/title/framework/django/logo_designed_3.png"
 ---
 
 Django 개발 서버는 기본적으로 8000번 포트를 사용합니다.  
