@@ -15,7 +15,7 @@ tags:
     superuser,
     슈퍼유저,
   ]
-image: "/assets/img/title/server/ubuntu/logo_white.png"
+image: "/assets/img/title/server/ubuntu/logo_designed_1.png"
 ---
 
 Ubuntu에서 유저에게 sudo 권한을 부여하는 방법은 매우 간단합니다.  
