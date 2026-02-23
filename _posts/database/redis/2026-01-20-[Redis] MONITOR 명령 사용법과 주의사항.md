@@ -15,7 +15,7 @@ tags:
     디버깅,
     모니터링,
   ]
-image: "/assets/img/title/database/redis/logo_black.png"
+image: "/assets/img/title/database/redis/logo_designed_2.png"
 ---
 
 ## 1. MONITOR 명령이란?
