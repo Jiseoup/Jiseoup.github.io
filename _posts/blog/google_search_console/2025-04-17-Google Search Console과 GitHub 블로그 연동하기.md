@@ -1,20 +1,10 @@
 ---
 title: "Google Search Console과 GitHub 블로그 연동하기"
+slug: google-search-console-setup
 date: 2025-04-17 23:37:00 +09:00
 last_modified_at: 2025-04-17 23:37:00 +09:00
 categories: [Blog, Google Search Console]
-tags:
-  [
-    google,
-    google search console,
-    seo,
-    검색 엔진,
-    github,
-    github blog,
-    블로그,
-    깃허브 블로그,
-    jekyll,
-  ]
+tags: [google-search-console, seo, github-blog]
 image: "/assets/img/title/blog/google_search_console/logo.png"
 ---
 

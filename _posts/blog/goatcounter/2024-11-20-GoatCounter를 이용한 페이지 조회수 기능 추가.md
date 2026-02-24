@@ -1,20 +1,10 @@
 ---
 title: "GoatCounter를 이용한 페이지 조회수 기능 추가"
+slug: goatcounter-page-views
 date: 2024-11-20 23:44:00 +09:00
 last_modified_at: 2024-11-20 23:44:00 +09:00
 categories: [Blog, GoatCounter]
-tags:
-  [
-    goatcounter,
-    analytics,
-    조회수,
-    github,
-    github blog,
-    블로그,
-    깃허브 블로그,
-    jekyll,
-    ruby,
-  ]
+tags: [goatcounter, analytics, github-blog]
 image: "/assets/img/title/blog/goatcounter/logo.png"
 ---
 
