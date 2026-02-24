@@ -1,11 +1,11 @@
 ---
-published: false  # TODO: 퍼블리싱 임시 중지
+published: false  # NOTE: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (1) 프로젝트 준비"
-# slug: drf-project-setup-guide
+slug: drf-project-part1
 date: 2025-04-10 03:35:00 +09:00
 last_modified_at: 2025-04-10 03:35:00 +09:00
 categories: [Framework, Django REST Framework]
-# tags: [django, drf, python, backend]
+tags: [django, drf]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_1.png"
 ---
 

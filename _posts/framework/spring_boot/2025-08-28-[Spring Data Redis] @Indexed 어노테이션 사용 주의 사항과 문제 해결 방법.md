@@ -1,10 +1,10 @@
 ---
 title: "[Spring Data Redis] @Indexed 어노테이션 사용 주의 사항과 문제 해결 방법"
-# slug: spring-data-redis-indexed-annotation
+slug: spring-redis-indexed
 date: 2025-08-28 22:00:00 +09:00
 last_modified_at: 2025-08-28 22:00:00 +09:00
 categories: [Framework, Spring Boot]
-# tags: [spring, redis, annotation, troubleshooting]
+tags: [spring, redis, troubleshooting]
 image: "/assets/img/title/framework/spring_boot/spring_data_redis_indexed.png"
 ---
 

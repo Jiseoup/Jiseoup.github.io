@@ -1,10 +1,10 @@
 ---
 title: "Django runserver 포트 변경과 외부 접속 허용"
-# slug: django-runserver-port-external-access
+slug: django-runserver
 date: 2025-04-10 02:04:00 +09:00
 last_modified_at: 2025-04-10 02:04:00 +09:00
 categories: [Framework, Django]
-# tags: [django, python, runserver]
+tags: [django, troubleshooting]
 image: "/assets/img/title/framework/django/logo_designed_3.png"
 ---
 

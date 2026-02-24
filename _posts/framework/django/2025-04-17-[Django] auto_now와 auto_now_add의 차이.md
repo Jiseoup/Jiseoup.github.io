@@ -1,10 +1,10 @@
 ---
 title: "[Django] auto_now와 auto_now_add의 차이"
-# slug: django-auto-now-vs-auto-now-add
+slug: django-auto-now
 date: 2025-04-17 20:33:00 +09:00
 last_modified_at: 2025-04-17 20:33:00 +09:00
 categories: [Framework, Django]
-# tags: [django, orm, model-field]
+tags: [django, orm]
 image: "/assets/img/title/framework/django/logo_designed_1.png"
 ---
 

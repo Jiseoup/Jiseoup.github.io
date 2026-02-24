@@ -1,11 +1,11 @@
 ---
-published: false  # TODO: 퍼블리싱 임시 중지
+published: false  # NOTE: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (5) JWT를 활용한 유저 기능 API 구현 - Part 2"
-# slug: drf-project-jwt-user-api-part2
+slug: drf-project-part5
 date: 2025-06-16 18:40:00 +09:00
 last_modified_at: 2025-06-16 18:40:00 +09:00
 categories: [Framework, Django REST Framework]
-# tags: [django, drf, jwt, python]
+tags: [django, drf, jwt]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_5.png"
 ---
 

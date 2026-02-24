@@ -1,10 +1,10 @@
 ---
 title: "[Django ORM] Field Lookup 완벽 가이드"
-# slug: django-orm-field-lookup-guide
+slug: django-field-lookup
 date: 2025-04-16 02:12:00 +09:00
 last_modified_at: 2025-04-16 02:12:00 +09:00
 categories: [Framework, Django]
-# tags: [django, orm, queryset, python]
+tags: [django, orm]
 image: "/assets/img/title/framework/django/orm_field_lookup.png"
 ---
 

@@ -1,11 +1,11 @@
 ---
-published: false  # TODO: 퍼블리싱 임시 중지
+published: false  # NOTE: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (3) Django ORM 파헤치기"
-# slug: drf-project-django-orm-deep-dive
+slug: drf-project-part3
 date: 2025-04-16 23:22:00 +09:00
 last_modified_at: 2025-04-16 23:22:00 +09:00
 categories: [Framework, Django REST Framework]
-# tags: [django, drf, orm, python]
+tags: [django, drf, orm]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_3.png"
 ---
 
