@@ -1,19 +1,10 @@
 ---
 title: "[Python] dict에서 get()과 []의 차이"
+# slug: python-dict-get-vs-bracket
 date: 2026-01-20 10:53:00 +09:00
 last_modified_at: 2026-01-20 10:53:00 +09:00
 categories: [Programming, Python]
-tags:
-  [
-    python,
-    파이썬,
-    dict,
-    딕셔너리,
-    get,
-    keyerror,
-    키 에러,
-    조회,
-  ]
+# tags: [python, dict, keyerror]
 image: "/assets/img/title/programming/python/logo_designed_2.png"
 ---
 

@@ -1,17 +1,10 @@
 ---
 title: "모듈의 결합도(Coupling)와 응집도(Cohesion)"
+# slug: module-coupling-and-cohesion
 date: 2025-07-21 11:09:00 +09:00
 last_modified_at: 2025-07-21 11:09:00 +09:00
 categories: [Computer Science, Software Engineering]
-tags:
-  [
-    소프트웨어공학,
-    module,
-    모듈,
-    모듈화,
-    결합도,
-    응집도,
-  ]
+# tags: [software-engineering, coupling, cohesion]
 image: "/assets/img/title/computer_science/software_engineering/coupling_and_cohesion.png"
 ---
 

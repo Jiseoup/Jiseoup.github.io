@@ -1,21 +1,10 @@
 ---
 title: "JWT(JSON Web Token)란 무엇인가?"
+# slug: jwt-json-web-token-explained
 date: 2025-06-11 23:27:00 +09:00
 last_modified_at: 2025-06-11 23:27:00 +09:00
 categories: [Security, JWT]
-tags:
-  [
-    jwt,
-    access token,
-    액세스 토큰,
-    refresh token,
-    리프레시 토큰,
-    token,
-    토큰,
-    인증,
-    인가,
-    보안,
-  ]
+# tags: [jwt, authentication, token]
 image: "/assets/img/title/security/jwt/logo.png"
 ---
 

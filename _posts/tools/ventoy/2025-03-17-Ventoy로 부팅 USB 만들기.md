@@ -1,21 +1,10 @@
 ---
 title: "Ventoy로 부팅 USB 만들기"
+# slug: ventoy-bootable-usb-guide
 date: 2025-03-17 17:16:00 +09:00
 last_modified_at: 2025-03-17 17:16:00 +09:00
 categories: [Tools, Ventoy]
-tags:
-  [
-    ventoy,
-    벤토이,
-    usb,
-    부팅 usb,
-    boot,
-    booting,
-    windows,
-    윈도우,
-    linux,
-    리눅스,
-  ]
+# tags: [ventoy, bootable-usb, linux]
 image: "/assets/img/title/tools/ventoy/logo.png"
 ---
 

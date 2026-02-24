@@ -1,19 +1,10 @@
 ---
 title: "[Redis] KEYS 대신 SCAN을 써야 하는 이유"
+# slug: redis-scan-vs-keys
 date: 2025-11-17 22:27:00 +09:00
 last_modified_at: 2025-11-17 22:27:00 +09:00
 categories: [Database, Redis]
-tags:
-  [
-    redis,
-    레디스,
-    cache,
-    캐시,
-    명령어,
-    커맨드,
-    keys,
-    scan,
-  ]
+# tags: [redis, cache, performance]
 image: "/assets/img/title/database/redis/logo_designed_1.png"
 ---
 

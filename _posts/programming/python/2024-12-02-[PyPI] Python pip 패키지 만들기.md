@@ -1,20 +1,10 @@
 ---
 title: "[PyPI] Python pip 패키지 만들기"
+# slug: python-pypi-package-publish
 date: 2024-12-02 23:02:00 +09:00
 last_modified_at: 2024-12-02 23:02:00 +09:00
 categories: [Programming, Python]
-tags:
-  [
-    python,
-    파이썬,
-    pypi,
-    pip,
-    패키지,
-    라이브러리,
-    module,
-    모듈,
-    배포,
-  ]
+# tags: [python, pypi, pip]
 image: "/assets/img/title/programming/python/pypi.png"
 ---
 

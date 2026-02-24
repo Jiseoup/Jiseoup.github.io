@@ -1,20 +1,10 @@
 ---
 title: "[Django ORM] QuerySet 메서드 완전 정복"
+# slug: django-orm-queryset-methods
 date: 2025-04-16 20:16:00 +09:00
 last_modified_at: 2025-04-16 20:16:00 +09:00
 categories: [Framework, Django]
-tags:
-  [
-    django,
-    python,
-    파이썬,
-    orm,
-    queryset,
-    쿼리셋,
-    method,
-    메서드,
-    crud,
-  ]
+# tags: [django, orm, queryset, python]
 image: "/assets/img/title/framework/django/orm_queryset_method.png"
 ---
 

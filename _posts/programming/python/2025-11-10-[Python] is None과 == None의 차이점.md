@@ -1,18 +1,10 @@
 ---
 title: "[Python] is None과 == None의 차이점"
+# slug: python-is-none-vs-equals-none
 date: 2025-11-10 22:49:00 +09:00
 last_modified_at: 2025-11-10 22:49:00 +09:00
 categories: [Programming, Python]
-tags:
-  [
-    python,
-    파이썬,
-    연산자,
-    비교,
-    none,
-    is,
-    문법,
-  ]
+# tags: [python, none, comparison]
 image: "/assets/img/title/programming/python/logo_designed_3.png"
 ---
 

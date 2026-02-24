@@ -1,18 +1,10 @@
 ---
 title: "[PostgreSQL] ALTER TABLE 주요 명령어 총정리"
+# slug: postgresql-alter-table-commands
 date: 2024-11-23 01:31:00 +09:00
 last_modified_at: 2024-11-23 01:31:00 +09:00
 categories: [Database, PostgreSQL]
-tags:
-  [
-    postgresql,
-    포스트그레스,
-    database,
-    데이터베이스,
-    alter,
-    alter table,
-    ddl,
-  ]
+# tags: [postgresql, ddl, alter-table]
 image: "/assets/img/title/database/postgresql/alter_table.png"
 ---
 

@@ -1,20 +1,10 @@
 ---
 title: "[VirtualBox] Windows 가상 머신에 Linux 설치하기 (2)"
+# slug: virtualbox-install-linux-on-windows-part2
 date: 2024-10-17 23:32:00 +09:00
 last_modified_at: 2024-10-17 23:32:00 +09:00
 categories: [Tools, VirtualBox]
-tags:
-  [
-    virtualbox,
-    버추얼박스,
-    vm,
-    virtual machine,
-    가상머신,
-    windows,
-    윈도우,
-    linux,
-    리눅스,
-  ]
+# tags: [virtualbox, linux, virtual-machine]
 image: "/assets/img/title/tools/virtualbox/logo.png"
 ---
 

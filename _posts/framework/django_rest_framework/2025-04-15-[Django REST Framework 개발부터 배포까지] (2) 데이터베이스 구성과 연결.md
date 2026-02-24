@@ -1,29 +1,11 @@
 ---
 published: false  # TODO: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (2) 데이터베이스 구성과 연결"
+# slug: drf-project-database-setup
 date: 2025-04-15 19:14:00 +09:00
 last_modified_at: 2025-04-15 19:14:00 +09:00
 categories: [Framework, Django REST Framework]
-# TODO: 태그 정리 필요
-tags:
-  [
-    # django,
-    # drf,
-    # django rest framework,
-    # python,
-    # 파이썬,
-    # postgresql,
-    # swagger,
-    # nginx,
-    # gunicorn,
-    # ci/cd,
-    # github actions,
-    # jwt,
-    # api,
-    # rest api,
-    # backend,
-    # 백엔드,
-  ]
+# tags: [django, drf, postgresql, python]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_2.png"
 ---
 

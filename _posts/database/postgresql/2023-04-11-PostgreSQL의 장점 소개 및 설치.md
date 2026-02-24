@@ -1,17 +1,10 @@
 ---
 title: PostgreSQL의 장점 소개 및 설치
+# slug: postgresql-introduction-and-install
 date: 2023-04-11 10:06:00 +09:00
 last_modified_at: 2023-04-11 10:06:00 +09:00
 categories: [Database, PostgreSQL]
-tags:
-  [
-    postgresql,
-    포스트그레스,
-    database,
-    데이터베이스,
-    rdbms,
-    관계형 데이터베이스,
-  ]
+# tags: [postgresql, rdbms, installation]
 image: "/assets/img/title/database/postgresql/logo_designed_1.png"
 ---
 

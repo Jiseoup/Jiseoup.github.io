@@ -1,20 +1,10 @@
 ---
 title: "[Redis] MONITOR 명령 사용법과 주의사항"
+# slug: redis-monitor-command-guide
 date: 2026-01-20 23:06:00 +09:00
 last_modified_at: 2026-01-20 23:06:00 +09:00
 categories: [Database, Redis]
-tags:
-  [
-    redis,
-    레디스,
-    cache,
-    캐시,
-    명령어,
-    커맨드,
-    monitor,
-    디버깅,
-    모니터링,
-  ]
+# tags: [redis, monitoring, debugging]
 image: "/assets/img/title/database/redis/logo_designed_2.png"
 ---
 

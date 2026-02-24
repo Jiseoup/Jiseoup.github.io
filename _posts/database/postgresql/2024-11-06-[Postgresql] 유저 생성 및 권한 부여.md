@@ -1,19 +1,10 @@
 ---
 title: "[PostgreSQL] 유저 생성 및 권한 부여"
+# slug: postgresql-user-create-grant
 date: 2024-11-06 01:42:00 +09:00
 last_modified_at: 2024-11-06 01:42:00 +09:00
 categories: [Database, PostgreSQL]
-tags:
-  [
-    postgresql,
-    포스트그레스,
-    database,
-    데이터베이스,
-    user,
-    유저,
-    권한,
-    grant,
-  ]
+# tags: [postgresql, user-management, grant]
 image: "/assets/img/title/database/postgresql/logo_designed_2.png"
 ---
 

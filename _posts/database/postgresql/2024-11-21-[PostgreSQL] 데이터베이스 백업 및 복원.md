@@ -1,19 +1,10 @@
 ---
 title: "[PostgreSQL] 데이터베이스 백업 및 복원"
+# slug: postgresql-backup-and-restore
 date: 2024-11-21 22:23:00 +09:00
 last_modified_at: 2024-11-21 22:23:00 +09:00
 categories: [Database, PostgreSQL]
-tags:
-  [
-    postgresql,
-    포스트그레스,
-    database,
-    데이터베이스,
-    backup,
-    백업,
-    restore,
-    복원,
-  ]
+# tags: [postgresql, backup, restore]
 image: "/assets/img/title/database/postgresql/logo_designed_2.png"
 ---
 

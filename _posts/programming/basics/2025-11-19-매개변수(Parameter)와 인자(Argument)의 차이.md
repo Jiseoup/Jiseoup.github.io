@@ -1,19 +1,10 @@
 ---
 title: "매개변수(Parameter)와 인자(Argument)의 차이"
+# slug: parameter-vs-argument-difference
 date: 2025-11-19 00:44:00 +09:00
 last_modified_at: 2025-11-19 00:44:00 +09:00
 categories: [Programming, Basics]
-tags:
-  [
-    function,
-    함수,
-    parameter,
-    파라미터,
-    매개변수,
-    argument,
-    아규먼트,
-    인자,
-  ]
+# tags: [programming-basics, parameter, argument]
 image: "/assets/img/title/programming/basics/params_args.png"
 ---
 
