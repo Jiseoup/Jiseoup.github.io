@@ -1,10 +1,10 @@
 ---
 title: "[Database] DDL, DML, DCL 이란?"
-# slug: database-ddl-dml-dcl
+slug: database-ddl-dml-dcl
 date: 2026-01-31 01:17:00 +09:00
 last_modified_at: 2026-01-31 01:17:00 +09:00
 categories: [Computer Science, DB]
-# tags: [database, sql, ddl, dml] # [database, sql, sql-commands]
+tags: [database, sql]
 image: "/assets/img/title/computer_science/db/ddl_dml_dcl.png"
 ---
 

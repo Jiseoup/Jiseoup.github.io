@@ -4,7 +4,7 @@ slug: goatcounter-page-views
 date: 2024-11-20 23:44:00 +09:00
 last_modified_at: 2024-11-20 23:44:00 +09:00
 categories: [Blog, GoatCounter]
-tags: [goatcounter, analytics, github-blog]
+tags: [github-blog, jekyll, analytics]
 image: "/assets/img/title/blog/goatcounter/logo.png"
 ---
 

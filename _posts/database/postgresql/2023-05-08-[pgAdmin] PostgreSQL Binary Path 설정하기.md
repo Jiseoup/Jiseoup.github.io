@@ -1,10 +1,10 @@
 ---
 title: "[pgAdmin] PostgreSQL Binary Path 설정하기"
-# slug: pgadmin-postgresql-binary-path
+slug: pgadmin-binary-path
 date: 2023-05-08 23:51:00 +09:00
 last_modified_at: 2023-05-08 23:51:00 +09:00
 categories: [Database, PostgreSQL]
-# tags: [postgresql, pgadmin, troubleshooting]
+tags: [postgresql, pgadmin, troubleshooting]
 image: "/assets/img/title/database/postgresql/pgadmin.png"
 ---
 

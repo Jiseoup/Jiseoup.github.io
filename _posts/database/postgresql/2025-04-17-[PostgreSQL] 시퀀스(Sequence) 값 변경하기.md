@@ -1,10 +1,10 @@
 ---
 title: "[PostgreSQL] 시퀀스(Sequence) 값 변경하기"
-# slug: postgresql-sequence-value-change
+slug: postgresql-sequence
 date: 2025-04-17 19:07:00 +09:00
 last_modified_at: 2025-04-17 19:07:00 +09:00
 categories: [Database, PostgreSQL]
-# tags: [postgresql, sequence, auto-increment]
+tags: [postgresql, database, troubleshooting]
 image: "/assets/img/title/database/postgresql/logo_designed_1.png"
 ---
 

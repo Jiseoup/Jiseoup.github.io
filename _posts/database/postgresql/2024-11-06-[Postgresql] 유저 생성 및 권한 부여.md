@@ -1,10 +1,10 @@
 ---
 title: "[PostgreSQL] 유저 생성 및 권한 부여"
-# slug: postgresql-user-create-grant
+slug: postgresql-user-permission
 date: 2024-11-06 01:42:00 +09:00
 last_modified_at: 2024-11-06 01:42:00 +09:00
 categories: [Database, PostgreSQL]
-# tags: [postgresql, user-management, grant]
+tags: [postgresql, database]
 image: "/assets/img/title/database/postgresql/logo_designed_2.png"
 ---
 
