@@ -5,7 +5,7 @@ slug: drf-project-part5
 date: 2025-06-16 18:40:00 +09:00
 last_modified_at: 2025-06-16 18:40:00 +09:00
 categories: [Framework, Django REST Framework]
-tags: [django, drf, jwt]
+tags: [django, drf, jwt, rest-api]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_5.png"
 ---
 

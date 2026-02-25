@@ -1,10 +1,10 @@
 ---
 title: 포스트맨(Postman) 사용 방법과 API 요청 테스트
-# slug: postman-api-testing-guide
+slug: postman-guide
 date: 2025-06-10 14:37:00 +09:00
 last_modified_at: 2025-06-10 14:37:00 +09:00
 categories: [Tools, Postman]
-# tags: [postman, rest-api, api-testing]
+tags: [postman, rest-api, testing]
 image: "/assets/img/title/tools/postman/logo.png"
 ---
 
