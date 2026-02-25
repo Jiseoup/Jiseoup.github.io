@@ -1,10 +1,10 @@
 ---
 title: "[Python] 파이썬 switch-case문 사용법"
-# slug: python-switch-case-match
+slug: python-switch-case
 date: 2025-07-21 15:50:00 +09:00
 last_modified_at: 2025-07-21 15:50:00 +09:00
 categories: [Programming, Python]
-# tags: [python, match-case, control-flow]
+tags: [python, syntax]
 image: "/assets/img/title/programming/python/logo_designed_1.png"
 ---
 

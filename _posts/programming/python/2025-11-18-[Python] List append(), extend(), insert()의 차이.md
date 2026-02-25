@@ -1,10 +1,10 @@
 ---
 title: "[Python] List append(), extend(), insert()의 차이"
-# slug: python-list-append-extend-insert
+slug: python-list-methods
 date: 2025-11-18 17:34:00 +09:00
 last_modified_at: 2025-11-18 17:34:00 +09:00
 categories: [Programming, Python]
-# tags: [python, list, data-structure]
+tags: [python, syntax]
 image: "/assets/img/title/programming/python/logo_designed_1.png"
 ---
 
