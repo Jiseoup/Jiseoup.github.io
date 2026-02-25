@@ -1,10 +1,10 @@
 ---
 title: "메시지 브로커(Message Broker) 알아보기"
-# slug: message-broker-guide
+slug: message-broker
 date: 2025-11-27 20:17:00 +09:00
 last_modified_at: 2025-11-27 20:17:00 +09:00
 categories: [Server, Architecture]
-# tags: [message-broker, kafka, rabbitmq, msa]
+tags: [architecture, message-broker]
 image: "/assets/img/title/server/architecture/message_broker.png"
 ---
 
