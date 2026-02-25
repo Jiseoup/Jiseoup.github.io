@@ -1,6 +1,6 @@
 ---
 title: "[Windows 11] WSL2 설치와 VSCode 연동"
-# slug: wsl2-install-vscode-integration
+# slug: wsl2-install-vscode-integration / wsl2-vscode-setup
 date: 2025-04-04 03:34:00 +09:00
 last_modified_at: 2025-04-04 03:34:00 +09:00
 categories: [Server, Windows]
