@@ -1,20 +1,10 @@
 ---
 title: "[Ubuntu] sudo 권한 부여하기"
+slug: ubuntu-sudo-permission
 date: 2024-10-18 00:03:00 +09:00
 last_modified_at: 2024-10-18 00:03:00 +09:00
 categories: [Server, Ubuntu]
-tags:
-  [
-    linux,
-    리눅스,
-    ubuntu,
-    우분투,
-    sudo,
-    permission,
-    권한,
-    superuser,
-    슈퍼유저,
-  ]
+tags: [ubuntu, security]
 image: "/assets/img/title/server/ubuntu/logo_designed_1.png"
 ---
 

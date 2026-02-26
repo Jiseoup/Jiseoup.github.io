@@ -1,36 +1,18 @@
 ---
-published: false  # TODO: 퍼블리싱 임시 중지
+published: false  # NOTE: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (3) Django ORM 파헤치기"
+slug: drf-project-part3
 date: 2025-04-16 23:22:00 +09:00
 last_modified_at: 2025-04-16 23:22:00 +09:00
 categories: [Framework, Django REST Framework]
-# TODO: 태그 정리 필요
-tags:
-  [
-    # django,
-    # drf,
-    # django rest framework,
-    # python,
-    # 파이썬,
-    # postgresql,
-    # swagger,
-    # nginx,
-    # gunicorn,
-    # ci/cd,
-    # github actions,
-    # jwt,
-    # api,
-    # rest api,
-    # backend,
-    # 백엔드,
-  ]
+tags: [django, drf, orm]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_3.png"
 ---
 
 이번 포스팅에서는 본격적인 API 개발에 앞서, **Django ORM**의 기본 사용법을 간단히 살펴보겠습니다.  
 Django REST Framework에서는 ORM 기반의 데이터 처리 방식을 기본으로 권장하기 때문에, 이를 잘 이해하고 있어야 효율적이고 안정적인 API 구현이 가능합니다.  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. ORM이란?
 ---
@@ -60,11 +42,11 @@ touch orm_practice/delete.py
 이제 다음 챕터부터 본격적으로 Django ORM을 활용한 CRUD 기능 구현을 실습해보겠습니다.  
 
 모든 실습 예제는 **이전 포스팅에서 생성한 `Post` 모델과 `슈퍼유저 계정`이 존재한다는 전제 하에 작성**되었습니다.  
-실습에 앞서 관련 데이터가 준비되어 있지 않다면, [이전 포스팅](https://devpro.kr/posts/DRF-Django-REST-Framework-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-(2)-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B5%AC%EC%84%B1%EA%B3%BC-%EC%97%B0%EA%B2%B0/)을 참고하여 환경을 먼저 구성하시는 것을 추천드립니다.  
+실습에 앞서 관련 데이터가 준비되어 있지 않다면, [이전 포스팅](https://devpro.kr/posts/drf-project-part2/)을 참고하여 환경을 먼저 구성하시는 것을 추천드립니다.  
 
 > **아래 포스팅을 함께 참고하시면 Django ORM의 구조와 기능에 대해 더욱 깊이 이해하실 수 있습니다.**  
-> 👉 [[Django ORM] QuerySet 메서드 완전 정복](https://devpro.kr/posts/Django-ORM-QuerySet-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5/)  
-> 👉 [[Django ORM] Field Lookup 완벽 가이드](https://devpro.kr/posts/Django-ORM-Field-Lookup-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/)  
+> 👉 [[Django ORM] QuerySet 메서드 완전 정복](https://devpro.kr/posts/django-orm-queryset/)  
+> 👉 [[Django ORM] Field Lookup 완벽 가이드](https://devpro.kr/posts/django-field-lookup/)  
 {: .prompt-tip }
 
 ## 3. 데이터 생성 (CREATE)

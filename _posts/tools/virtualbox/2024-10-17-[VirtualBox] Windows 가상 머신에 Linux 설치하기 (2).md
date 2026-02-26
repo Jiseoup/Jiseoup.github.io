@@ -1,27 +1,17 @@
 ---
 title: "[VirtualBox] Windows 가상 머신에 Linux 설치하기 (2)"
+slug: virtualbox-setup-part2
 date: 2024-10-17 23:32:00 +09:00
 last_modified_at: 2024-10-17 23:32:00 +09:00
 categories: [Tools, VirtualBox]
-tags:
-  [
-    virtualbox,
-    버추얼박스,
-    vm,
-    virtual machine,
-    가상머신,
-    windows,
-    윈도우,
-    linux,
-    리눅스,
-  ]
+tags: [virtualbox, linux, ubuntu]
 image: "/assets/img/title/tools/virtualbox/logo.png"
 ---
 
+{% include series/virtualbox-setup.html %}
+
 > 이번 포스팅에서는 VirtualBox에 Linux 환경을 구성하는 방법에 대해 알아보겠습니다.  
 > VirtualBox 설치를 완료하지 않은 분든을 이전 포스팅을 확인해주세요.  
-> > [[VirtualBox] Windows 가상 머신에 Linux 설치하기 (1)](https://devpro.kr/posts/VirtualBox-Windows-%EA%B0%80%EC%83%81-%EB%A8%B8%EC%8B%A0%EC%97%90-Linux-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-(1)/)  
-
 
 ## 1. Ubuntu ISO 이미지 다운로드
 ---

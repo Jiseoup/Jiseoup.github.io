@@ -1,29 +1,11 @@
 ---
-published: false  # TODO: 퍼블리싱 임시 중지
+published: false  # NOTE: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (1) 프로젝트 준비"
+slug: drf-project-part1
 date: 2025-04-10 03:35:00 +09:00
 last_modified_at: 2025-04-10 03:35:00 +09:00
 categories: [Framework, Django REST Framework]
-# TODO: 태그 정리 필요
-tags:
-  [
-    # django,
-    # drf,
-    # django rest framework,
-    # python,
-    # 파이썬,
-    # postgresql,
-    # swagger,
-    # nginx,
-    # gunicorn,
-    # ci/cd,
-    # github actions,
-    # jwt,
-    # api,
-    # rest api,
-    # backend,
-    # 백엔드,
-  ]
+tags: [django, drf, setup]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_1.png"
 ---
 
@@ -37,13 +19,13 @@ image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_1.p
 
 그럼 지금부터 시작합니다!  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. Django REST Framework(DRF) 란?
 ---
 Django REST Framework(DRF)는 **Django 기반의 웹 애플리케이션에서 REST API를 쉽게 개발할 수 있도록 도와주는 강력한 라이브러리입니다.** 기존 Django는 HTML 중심의 웹 페이지 렌더링에 특화되어 있지만, DRF는 JSON 형태로 데이터를 주고받는 API 서버 구축에 최적화되어 있습니다.  
 
-> [REST API가 궁금하다면? 여기를 클릭하세요.](https://devpro.kr/posts/REST,-RESTful-API%EB%9E%80-%EA%B0%9C%EB%85%90-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)  
+> [REST API가 궁금하다면? 여기를 클릭하세요.](https://devpro.kr/posts/rest-restful-api/)  
 {: .prompt-tip }
 
 즉, Django에서 REST API를 만들고자 한다면 DRF는 사실상 표준 라이브러리라고 할 수 있습니다.  
@@ -53,7 +35,7 @@ Django REST Framework(DRF)는 **Django 기반의 웹 애플리케이션에서 RE
 이제 본격적으로 프로젝트를 시작하기에 앞서, 개발 환경 구성을 진행하겠습니다.  
 본 시리즈는 **WSL2 기반 Ubuntu 24.04 LTS 환경에서 개발을 진행**하며, **최종적으로는 Ubuntu 서버에 배포하는 것을 목표**로 합니다.  
 
-> [WSL2를 사용하고 싶다면? 여기를 클릭하세요.](https://devpro.kr/posts/Windows-11-WSL2-%EC%84%A4%EC%B9%98%EC%99%80-VSCode-%EC%97%B0%EB%8F%99/)  
+> [WSL2를 사용하고 싶다면? 여기를 클릭하세요.](https://devpro.kr/posts/wsl2-vscode-setup/)  
 {: .prompt-tip }
 
 ### 2-1. Git 저장소 구성

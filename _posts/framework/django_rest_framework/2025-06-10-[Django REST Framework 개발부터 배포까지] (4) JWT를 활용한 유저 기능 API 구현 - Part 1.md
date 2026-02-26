@@ -1,36 +1,18 @@
 ---
-published: false  # TODO: 퍼블리싱 임시 중지
+published: false  # NOTE: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (4) JWT를 활용한 유저 기능 API 구현 - Part 1"
+slug: drf-project-part4
 date: 2025-06-10 17:00:00 +09:00
 last_modified_at: 2025-06-10 17:00:00 +09:00
 categories: [Framework, Django REST Framework]
-# TODO: 태그 정리 필요
-tags:
-  [
-    # django,
-    # drf,
-    # django rest framework,
-    # python,
-    # 파이썬,
-    # postgresql,
-    # swagger,
-    # nginx,
-    # gunicorn,
-    # ci/cd,
-    # github actions,
-    # jwt,
-    # api,
-    # rest api,
-    # backend,
-    # 백엔드,
-  ]
+tags: [django, drf, jwt, rest-api]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_4.png"
 ---
 
 이번 포스팅에서는 **회원 가입 및 탈퇴, 로그인, 로그아웃**과 같은 유저 관련 기능을 구현하기 위한 준비 단계로,
-이를 [**JWT(JSON Web Token)**](https://devpro.kr/posts/JWT(JSON-Web-Token)%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/) 기반 인증 방식으로 구현하기 위한 **개발 환경 구성**부터 다뤄보도록 하겠습니다.  
+이를 [**JWT(JSON Web Token)**](https://devpro.kr/posts/what-is-jwt/) 기반 인증 방식으로 구현하기 위한 **개발 환경 구성**부터 다뤄보도록 하겠습니다.  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. DRF 환경 구성
 ---

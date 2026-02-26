@@ -1,20 +1,10 @@
 ---
 title: "REST, RESTful API란? 개념 살펴보기"
+slug: rest-restful-api
 date: 2025-04-10 01:59:00 +09:00
 last_modified_at: 2025-04-10 01:59:00 +09:00
 categories: [Server, REST API]
-tags:
-  [
-    api,
-    rest,
-    restful,
-    rest api,
-    http,
-    http method,
-    http 메서드,
-    uri,
-    url,
-  ]
+tags: [rest-api, design]
 image: "/assets/img/title/server/rest_api/title.png"
 ---
 

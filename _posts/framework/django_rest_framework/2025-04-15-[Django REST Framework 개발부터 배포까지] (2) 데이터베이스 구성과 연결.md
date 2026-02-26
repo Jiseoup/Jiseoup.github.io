@@ -1,36 +1,18 @@
 ---
-published: false  # TODO: 퍼블리싱 임시 중지
+published: false  # NOTE: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (2) 데이터베이스 구성과 연결"
+slug: drf-project-part2
 date: 2025-04-15 19:14:00 +09:00
 last_modified_at: 2025-04-15 19:14:00 +09:00
 categories: [Framework, Django REST Framework]
-# TODO: 태그 정리 필요
-tags:
-  [
-    # django,
-    # drf,
-    # django rest framework,
-    # python,
-    # 파이썬,
-    # postgresql,
-    # swagger,
-    # nginx,
-    # gunicorn,
-    # ci/cd,
-    # github actions,
-    # jwt,
-    # api,
-    # rest api,
-    # backend,
-    # 백엔드,
-  ]
+tags: [django, drf, postgresql]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_2.png"
 ---
 
 이전 포스팅에서는 Django 프로젝트를 위한 개발 환경 구성을 살펴보았습니다.  
 이번 포스팅에서는 **데이터베이스(PostgreSQL) 설치부터 구성, Django 프로젝트와의 연동**까지 단계별로 알아보도록 하겠습니다.  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. PostgreSQL 설치 및 접속
 ---
@@ -62,7 +44,7 @@ sudo -i -u postgres psql
 
 ## 2. 데이터베이스 구성
 ---
-데이터베이스 설치 완료 후 PSQL 접속까지 성공했다면, 이제 본격적으로 프로젝트용 데이터베이스와 사용자 계정을 구성할 차례입니다. 만약 PSQL 사용이 처음이거나 아직 익숙하지 않으시다면, [PSQL 사용법 정리](https://devpro.kr/posts/PSQL-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC/) 포스팅을 참고하여 기초적인 명령어 사용법을 빠르게 익히실 수 있습니다.  
+데이터베이스 설치 완료 후 PSQL 접속까지 성공했다면, 이제 본격적으로 프로젝트용 데이터베이스와 사용자 계정을 구성할 차례입니다. 만약 PSQL 사용이 처음이거나 아직 익숙하지 않으시다면, [PSQL 사용법 정리](https://devpro.kr/posts/psql-commands/) 포스팅을 참고하여 기초적인 명령어 사용법을 빠르게 익히실 수 있습니다.  
 
 ### 2-1. 유저 생성
 먼저 프로젝트를 위한 데이터베이스 유저를 생성합니다.  
@@ -219,7 +201,7 @@ DATABASES = {
 
 여기서, 위와 같이 **민감 정보를 하드코딩하는 방식은 보안상 위험**합니다.  
 따라서 **환경변수를 설정하여 관리하는 것이 중요**합니다.  
-실제 개발 환경에서는 `.env` 파일을 통해 환경변수를 관리하는 방법이 보편적이며, [[Python] .env 파일로 환경변수 관리하기](https://devpro.kr/posts/Python-.env-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/) 포스팅을 참고하여 아래와 같이 구성하시는 것을 권장합니다.  
+실제 개발 환경에서는 `.env` 파일을 통해 환경변수를 관리하는 방법이 보편적이며, [[Python] .env 파일로 환경변수 관리하기](https://devpro.kr/posts/python-dotenv/) 포스팅을 참고하여 아래와 같이 구성하시는 것을 권장합니다.  
 ```python
 from decouple import config  # settings.py 파일 상단에 추가
 

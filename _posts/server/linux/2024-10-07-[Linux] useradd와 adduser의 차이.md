@@ -1,19 +1,10 @@
 ---
 title: "[Linux] useradd와 adduser의 차이"
+slug: linux-useradd-vs-adduser
 date: 2024-10-07 23:32:00 +09:00
 last_modified_at: 2024-10-07 23:32:00 +09:00
 categories: [Server, Linux]
-tags:
-  [
-    linux,
-    리눅스,
-    ubuntu,
-    우분투,
-    useradd,
-    adduser,
-    command,
-    명령어,
-  ]
+tags: [linux, command]
 image: "/assets/img/title/server/linux/logo_designed_1.png"
 ---
 

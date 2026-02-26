@@ -1,37 +1,19 @@
 ---
-published: false  # TODO: 퍼블리싱 임시 중지
+published: false  # NOTE: 퍼블리싱 임시 중지
 title: "[Django REST Framework 개발부터 배포까지] (5) JWT를 활용한 유저 기능 API 구현 - Part 2"
+slug: drf-project-part5
 date: 2025-06-16 18:40:00 +09:00
 last_modified_at: 2025-06-16 18:40:00 +09:00
 categories: [Framework, Django REST Framework]
-# TODO: 태그 정리 필요
-tags:
-  [
-    # django,
-    # drf,
-    # django rest framework,
-    # python,
-    # 파이썬,
-    # postgresql,
-    # swagger,
-    # nginx,
-    # gunicorn,
-    # ci/cd,
-    # github actions,
-    # jwt,
-    # api,
-    # rest api,
-    # backend,
-    # 백엔드,
-  ]
+tags: [django, drf, jwt, rest-api]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_5.png"
 ---
 
 이전 포스팅의 DRF 개발 환경 구성에 이어, 이번에는 본격적으로 유저 기능 API를 구현해보도록 하겠습니다.  
 유저 기능 API는 크게 **회원 가입과 탈퇴, 로그인, 로그아웃으로 구성**됩니다.  
-추가로, 로그인과 로그아웃 기능은 [**JWT(JSON Web Token)**](https://devpro.kr/posts/JWT(JSON-Web-Token)%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/) 기반 인증 방식으로 구현할 것이기 때문에, **Access Token을 재발급하는 API도 함께 구현**할 예정입니다.  
+추가로, 로그인과 로그아웃 기능은 [**JWT(JSON Web Token)**](https://devpro.kr/posts/what-is-jwt/) 기반 인증 방식으로 구현할 것이기 때문에, **Access Token을 재발급하는 API도 함께 구현**할 예정입니다.  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. 회원 가입/탈퇴 API 구현
 ---
@@ -289,7 +271,7 @@ Postman을 사용하면 Request Body, Header, Token 등을 보다 세밀하게 �
 
 **Postman 설치 및 사용 방법은 아래 포스팅을 참고**해주세요.  
 
-> [포스트맨(Postman) 사용 방법과 API 요청 테스트](https://devpro.kr/posts/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A7%A8(Postman)-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95%EA%B3%BC-API-%EC%9A%94%EC%B2%AD-%ED%85%8C%EC%8A%A4%ED%8A%B8/)  
+> [포스트맨(Postman) 사용 방법과 API 요청 테스트](https://devpro.kr/posts/postman-guide/)  
 {: .prompt-info }
 
 ### 3-1. 회원 가입 API

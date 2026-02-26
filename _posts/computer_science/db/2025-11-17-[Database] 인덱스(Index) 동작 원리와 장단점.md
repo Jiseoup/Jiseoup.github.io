@@ -1,19 +1,10 @@
 ---
 title: "[Database] 인덱스(Index) 동작 원리와 장단점"
+slug: database-index
 date: 2025-11-17 16:51:00 +09:00
 last_modified_at: 2025-11-17 16:51:00 +09:00
 categories: [Computer Science, DB]
-tags:
-  [
-    database,
-    데이터베이스,
-    index,
-    인덱스,
-    b-tree,
-    성능,
-    쿼리 튜닝,
-    쿼리 최적화,
-  ]
+tags: [database, index, performance]
 image: "/assets/img/title/computer_science/db/index.png"
 ---
 
