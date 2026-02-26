@@ -4,7 +4,7 @@ slug: virtualbox-setup-part1
 date: 2024-10-17 22:43:00 +09:00
 last_modified_at: 2024-10-17 22:43:00 +09:00
 categories: [Tools, VirtualBox]
-tags: [virtualbox, linux]
+tags: [virtualbox, linux, setup]
 image: "/assets/img/title/tools/virtualbox/logo.png"
 ---
 

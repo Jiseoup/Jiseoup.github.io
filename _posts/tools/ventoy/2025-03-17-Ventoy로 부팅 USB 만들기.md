@@ -4,7 +4,7 @@ slug: ventoy-bootable-usb
 date: 2025-03-17 17:16:00 +09:00
 last_modified_at: 2025-03-17 17:16:00 +09:00
 categories: [Tools, Ventoy]
-tags: [ventoy, config]
+tags: [ventoy, setup]
 image: "/assets/img/title/tools/ventoy/logo.png"
 ---
 

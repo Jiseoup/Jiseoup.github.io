@@ -4,7 +4,7 @@ slug: postgresql-install
 date: 2023-04-11 10:06:00 +09:00
 last_modified_at: 2023-04-11 10:06:00 +09:00
 categories: [Database, PostgreSQL]
-tags: [postgresql, database]
+tags: [postgresql, database, setup]
 image: "/assets/img/title/database/postgresql/logo_designed_1.png"
 ---
 

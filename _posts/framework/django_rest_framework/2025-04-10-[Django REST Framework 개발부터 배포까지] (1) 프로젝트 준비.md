@@ -5,7 +5,7 @@ slug: drf-project-part1
 date: 2025-04-10 03:35:00 +09:00
 last_modified_at: 2025-04-10 03:35:00 +09:00
 categories: [Framework, Django REST Framework]
-tags: [django, drf]
+tags: [django, drf, setup]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_1.png"
 ---
 
