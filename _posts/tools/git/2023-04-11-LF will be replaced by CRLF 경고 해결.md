@@ -1,10 +1,10 @@
 ---
 title: LF will be replaced by CRLF 경고 해결
-# slug: git-lf-crlf-warning-fix
+slug: git-crlf-warning
 date: 2023-04-11 01:37:00 +09:00
 last_modified_at: 2023-04-11 01:37:00 +09:00
 categories: [Tools, Git]
-# tags: [git, line-ending, troubleshooting]
+tags: [git, troubleshooting]
 image: "/assets/img/title/tools/git/logo_designed_2.png"
 ---
 
