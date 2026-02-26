@@ -9,7 +9,7 @@ image: "/assets/img/title/database/postgresql/logo_designed_2.png"
 ---
 
 이번 포스팅에서는 PostgreSQL 데이터베이스에서 유저 생성과 권한 부여 방법에 대해 알아보겠습니다.  
-이 글을 읽기 전에, [PSQL 사용법 정리](https://devpro.kr/posts/PSQL-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC/) 포스팅을 참고하시면 더욱 쉽게 이해하실 수 있습니다.  
+이 글을 읽기 전에, [PSQL 사용법 정리](https://devpro.kr/posts/psql-commands/) 포스팅을 참고하시면 더욱 쉽게 이해하실 수 있습니다.  
 
 ## 1. 유저 및 권한 조회
 데이터베이스 유저와 권한을 조회하는 방법은 매우 간단합니다.  

@@ -12,7 +12,7 @@ image: "/assets/img/title/tools/postman/logo.png"
 프론트엔드와 백엔드의 협업, 외부 API 연동 테스트, 인증 토큰 확인 등 다양한 상황에서 유용하게 활용할 수 있습니다.  
 
 이번 포스팅에서는 **Postman 설치부터 기본적인 사용법, 그리고 API 요청 테스트까지 정리**해보도록 하겠습니다.  
-본 포스팅의 [4장](https://devpro.kr/posts/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A7%A8(Postman)-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95%EA%B3%BC-API-%EC%9A%94%EC%B2%AD-%ED%85%8C%EC%8A%A4%ED%8A%B8/#4-%EC%9A%94%EC%B2%ADrequests)부터 API 요청 기능 사용 방법과 테스트가 본격적으로 시작되니, 급하신 분들은 4장부터 바로 읽어보셔도 좋습니다.  
+본 포스팅의 **4. 요청(Requests)**부터 API 요청 기능 사용 방법과 테스트가 본격적으로 시작되니, 급하신 분들은 4장부터 바로 읽어보셔도 좋습니다.  
 
 ## 1. Postman 다운로드 및 설치
 ---

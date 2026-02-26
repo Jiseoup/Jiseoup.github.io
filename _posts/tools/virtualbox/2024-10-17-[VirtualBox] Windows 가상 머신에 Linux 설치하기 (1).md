@@ -8,6 +8,8 @@ tags: [virtualbox, linux, setup]
 image: "/assets/img/title/tools/virtualbox/logo.png"
 ---
 
+{% include series/virtualbox-setup.html %}
+
 가상머신(Virtual Machine, VM)은 하나의 운영체제에서 다른 운영체제를 동시에 실행할 수 있는 유용한 도구입니다. 이를 통해 윈도우 환경에서 리눅스, macOS 등을 실행하거나, 반대로 리눅스 등 다른 운영체제에서 윈도우를 실행할 수 있습니다.  
 
 대표적인 가상머신 소프트웨어로는 **VirtualBox**와 **VMware**가 있습니다.  
@@ -16,7 +18,6 @@ image: "/assets/img/title/tools/virtualbox/logo.png"
 
 필자는 과거 VMware를 애용했으나, 회사가 인수되며 생긴 여러가지 불편사항과, 라이선스에 대한 불안감으로  
 이제는 VirtualBox를 사용하고자 합니다.  
-
 
 ## 1. VirtualBox 다운로드
 ---
@@ -57,6 +58,3 @@ Python으로 VirtualBox를 제어하실 분이 아니라면, 무시하고 넘기
 다음 포스팅에서는 VirtualBox에 Linux 환경을 구성하는 방법에 대해 알아보도록 하겠습니다.  
 
 감사합니다.  
-
-#### **다음 포스팅**  
-> [[VirtualBox] Windows 가상 머신에 Linux 설치하기 (2)](https://devpro.kr/posts/VirtualBox-Windows-%EA%B0%80%EC%83%81-%EB%A8%B8%EC%8B%A0%EC%97%90-Linux-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-(2)/)  
