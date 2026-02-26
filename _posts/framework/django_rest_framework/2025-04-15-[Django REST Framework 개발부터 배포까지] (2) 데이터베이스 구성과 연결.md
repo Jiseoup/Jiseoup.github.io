@@ -12,7 +12,7 @@ image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_2.p
 이전 포스팅에서는 Django 프로젝트를 위한 개발 환경 구성을 살펴보았습니다.  
 이번 포스팅에서는 **데이터베이스(PostgreSQL) 설치부터 구성, Django 프로젝트와의 연동**까지 단계별로 알아보도록 하겠습니다.  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. PostgreSQL 설치 및 접속
 ---

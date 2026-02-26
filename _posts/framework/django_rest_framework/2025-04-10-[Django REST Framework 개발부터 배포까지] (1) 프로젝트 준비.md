@@ -19,7 +19,7 @@ image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_1.p
 
 그럼 지금부터 시작합니다!  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. Django REST Framework(DRF) 란?
 ---

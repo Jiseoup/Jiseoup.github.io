@@ -12,7 +12,7 @@ image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_3.p
 이번 포스팅에서는 본격적인 API 개발에 앞서, **Django ORM**의 기본 사용법을 간단히 살펴보겠습니다.  
 Django REST Framework에서는 ORM 기반의 데이터 처리 방식을 기본으로 권장하기 때문에, 이를 잘 이해하고 있어야 효율적이고 안정적인 API 구현이 가능합니다.  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. ORM이란?
 ---

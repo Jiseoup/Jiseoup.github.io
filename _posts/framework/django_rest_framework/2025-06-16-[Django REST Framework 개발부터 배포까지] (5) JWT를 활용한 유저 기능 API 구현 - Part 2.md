@@ -13,7 +13,7 @@ image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_5.p
 유저 기능 API는 크게 **회원 가입과 탈퇴, 로그인, 로그아웃으로 구성**됩니다.  
 추가로, 로그인과 로그아웃 기능은 [**JWT(JSON Web Token)**](https://devpro.kr/posts/JWT(JSON-Web-Token)%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/) 기반 인증 방식으로 구현할 것이기 때문에, **Access Token을 재발급하는 API도 함께 구현**할 예정입니다.  
 
-{% include drf-project.html %}
+{% include series/drf-project.html %}
 
 ## 1. 회원 가입/탈퇴 API 구현
 ---
