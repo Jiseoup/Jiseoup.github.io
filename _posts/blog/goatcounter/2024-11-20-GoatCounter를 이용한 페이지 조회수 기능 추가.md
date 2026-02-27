@@ -6,6 +6,9 @@ last_modified_at: 2024-11-20 23:44:00 +09:00
 categories: [Blog, GoatCounter]
 tags: [github-blog, jekyll, analytics]
 image: "/assets/img/title/blog/goatcounter/logo.png"
+redirect_from:
+    - /posts/GoatCounter를-이용한-페이지-조회수-기능-추가/
+    - /posts/GoatCounter%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A1%B0%ED%9A%8C%EC%88%98-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80/
 ---
 
 GoatCounter는 간단한 설정만으로 페이지 조회수를 추적할 수 있는 경량화된 웹 분석 도구입니다.  

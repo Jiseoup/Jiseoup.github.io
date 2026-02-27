@@ -6,6 +6,9 @@ last_modified_at: 2025-04-17 23:37:00 +09:00
 categories: [Blog, Google Search Console]
 tags: [google-search-console, github-blog, seo]
 image: "/assets/img/title/blog/google_search_console/logo.png"
+redirect_from:
+    - /posts/Google-Search-Console과-GitHub-블로그-연동하기/
+    - /posts/Google-Search-Console%EA%B3%BC-GitHub-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/
 ---
 
 요즘 들어 블로그 포스팅의 노출 빈도가 눈에 띄게 줄어든 것 같아 **Google Search Console**을 등록하게 되었습니다.  
