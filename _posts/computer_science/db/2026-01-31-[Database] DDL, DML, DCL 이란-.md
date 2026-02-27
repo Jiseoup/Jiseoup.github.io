@@ -6,6 +6,9 @@ last_modified_at: 2026-01-31 01:17:00 +09:00
 categories: [Computer Science, DB]
 tags: [database, sql]
 image: "/assets/img/title/computer_science/db/ddl_dml_dcl.png"
+redirect_from:
+    - /posts/Database-DDL,-DML,-DCL-이란/
+    - /posts/Database-DDL,-DML,-DCL-%EC%9D%B4%EB%9E%80/
 ---
 
 ### 1. 데이터 정의어 (DDL, Data Definition Language)

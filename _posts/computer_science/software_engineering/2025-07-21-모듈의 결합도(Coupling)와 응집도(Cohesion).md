@@ -6,6 +6,9 @@ last_modified_at: 2025-07-21 11:09:00 +09:00
 categories: [Computer Science, Software Engineering]
 tags: [software-engineering, design]
 image: "/assets/img/title/computer_science/software_engineering/coupling_and_cohesion.png"
+redirect_from:
+    - /posts/모듈의-결합도(Coupling)와-응집도(Cohesion)/
+    - /posts/%EB%AA%A8%EB%93%88%EC%9D%98-%EA%B2%B0%ED%95%A9%EB%8F%84(Coupling)%EC%99%80-%EC%9D%91%EC%A7%91%EB%8F%84(Cohesion)/
 ---
 
 프로그램이 커지고 복잡해질수록 유지보수, 확장성, 협업 효율성이 더욱 중요해집니다.  

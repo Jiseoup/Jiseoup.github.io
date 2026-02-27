@@ -6,6 +6,9 @@ last_modified_at: 2025-11-17 16:51:00 +09:00
 categories: [Computer Science, DB]
 tags: [database, index, performance]
 image: "/assets/img/title/computer_science/db/index.png"
+redirect_from:
+    - /posts/Database-인덱스(Index)-동작-원리와-장단점/
+    - /posts/Database-%EC%9D%B8%EB%8D%B1%EC%8A%A4(Index)-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%9E%A5%EB%8B%A8%EC%A0%90/
 ---
 
 ## 1. 인덱스(Index)란?
