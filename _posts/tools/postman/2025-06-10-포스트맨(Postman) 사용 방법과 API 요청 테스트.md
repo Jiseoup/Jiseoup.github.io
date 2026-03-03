@@ -6,6 +6,9 @@ last_modified_at: 2025-06-10 14:37:00 +09:00
 categories: [Tools, Postman]
 tags: [postman, rest-api, testing]
 image: "/assets/img/title/tools/postman/logo.png"
+redirect_from:
+    - /posts/포스트맨(Postman)-사용-방법과-API-요청-테스트/
+    - /posts/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A7%A8(Postman)-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95%EA%B3%BC-API-%EC%9A%94%EC%B2%AD-%ED%85%8C%EC%8A%A4%ED%8A%B8/
 ---
 
 **Postman**은 API 테스트를 위한 도구로, 웹 개발에서 매우 자주 사용되는 강력한 도구 중 하나입니다.  

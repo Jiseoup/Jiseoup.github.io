@@ -6,6 +6,9 @@ last_modified_at: 2025-11-18 17:34:00 +09:00
 categories: [Programming, Python]
 tags: [python, syntax]
 image: "/assets/img/title/programming/python/logo_designed_1.png"
+redirect_from:
+    - /posts/Python-List-append(),-extend(),-insert()의-차이/
+    - /posts/Python-List-append(),-extend(),-insert()%EC%9D%98-%EC%B0%A8%EC%9D%B4/
 ---
 
 Python에서 List에 요소를 추가하는 메서드로는 `append()`, `extend()`, `insert()` 3가지가 있습니다.  

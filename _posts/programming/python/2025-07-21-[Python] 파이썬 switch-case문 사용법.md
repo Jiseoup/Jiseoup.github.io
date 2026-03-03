@@ -6,6 +6,9 @@ last_modified_at: 2025-07-21 15:50:00 +09:00
 categories: [Programming, Python]
 tags: [python, syntax]
 image: "/assets/img/title/programming/python/logo_designed_1.png"
+redirect_from:
+    - /posts/Python-파이썬-switch-case문-사용법/
+    - /posts/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-switch-case%EB%AC%B8-%EC%82%AC%EC%9A%A9%EB%B2%95/
 ---
 
 C/C++, Java 등 많은 언어에서는 조건 분기 처리를 위한 제어문으로 `switch-case` 문이 사용됩니다.  

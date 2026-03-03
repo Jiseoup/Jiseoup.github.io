@@ -6,6 +6,9 @@ last_modified_at: 2025-11-19 00:44:00 +09:00
 categories: [Programming, Basics]
 tags: [basics, python]
 image: "/assets/img/title/programming/basics/params_args.png"
+redirect_from:
+    - /posts/매개변수(Parameter)와-인자(Argument)의-차이/
+    - /posts/%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98(Parameter)%EC%99%80-%EC%9D%B8%EC%9E%90(Argument)%EC%9D%98-%EC%B0%A8%EC%9D%B4/
 ---
 
 흔히 프로그래밍을 할 때, **매개변수(Parameter)**와 **인자(Argument)**라는 용어를 자주 접하게 됩니다.  

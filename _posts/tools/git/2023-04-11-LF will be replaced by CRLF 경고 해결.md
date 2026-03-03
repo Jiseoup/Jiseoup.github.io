@@ -6,6 +6,9 @@ last_modified_at: 2023-04-11 01:37:00 +09:00
 categories: [Tools, Git]
 tags: [git, troubleshooting]
 image: "/assets/img/title/tools/git/logo_designed_2.png"
+redirect_from:
+    - /posts/LF-will-be-replaced-by-CRLF-경고-해결/
+    - /posts/LF-will-be-replaced-by-CRLF-%EA%B2%BD%EA%B3%A0-%ED%95%B4%EA%B2%B0/
 ---
 
 모든 작업을 마치고 git으로 저장소에 파일을 업로드하려고 하는데... 어랏?  

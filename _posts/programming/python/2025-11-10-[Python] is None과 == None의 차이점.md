@@ -6,6 +6,9 @@ last_modified_at: 2025-11-10 22:49:00 +09:00
 categories: [Programming, Python]
 tags: [python, syntax]
 image: "/assets/img/title/programming/python/logo_designed_3.png"
+redirect_from:
+    - /posts/Python-is-None과-==-None의-차이점/
+    - /posts/Python-is-None%EA%B3%BC-==-None%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90/
 ---
 
 Python에서 **`None`**을 체크할 때, **`== None`** 보다 **`is None`**이 권장되는 이유가 무엇일까요?  

@@ -6,6 +6,9 @@ last_modified_at: 2026-01-20 10:53:00 +09:00
 categories: [Programming, Python]
 tags: [python, syntax]
 image: "/assets/img/title/programming/python/logo_designed_2.png"
+redirect_from:
+    - /posts/Python-dict에서-get()과-의-차이/
+    - /posts/Python-dict%EC%97%90%EC%84%9C-get()%EA%B3%BC-%EC%9D%98-%EC%B0%A8%EC%9D%B4/
 ---
 
 Python 딕셔너리(dict)에서 값을 가져올 때는 보통 `dict.get('key')`와 `dict['key']` 두 가지를 사용합니다.  

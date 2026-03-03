@@ -6,6 +6,9 @@ last_modified_at: 2024-10-07 23:32:00 +09:00
 categories: [Server, Linux]
 tags: [linux, command]
 image: "/assets/img/title/server/linux/logo_designed_1.png"
+redirect_from:
+    - /posts/Linux-useradd와-adduser의-차이/
+    - /posts/Linux-useradd%EC%99%80-adduser%EC%9D%98-%EC%B0%A8%EC%9D%B4/
 ---
 
 매우 유사해 보이지만, 서로 다른 기능을 제공하는 useradd와 adduser 명령어에 대해 알아보겠습니다.  

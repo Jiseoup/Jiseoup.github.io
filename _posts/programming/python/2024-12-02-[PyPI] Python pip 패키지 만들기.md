@@ -6,6 +6,9 @@ last_modified_at: 2024-12-02 23:02:00 +09:00
 categories: [Programming, Python]
 tags: [python, package, pypi]
 image: "/assets/img/title/programming/python/pypi.png"
+redirect_from:
+    - /posts/PyPI-Python-pip-패키지-만들기/
+    - /posts/PyPI-Python-pip-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/
 ---
 
 모두들 Python 개발을 하면서 `pip install`을 통해 패키지를 설치하고 사용한 경험이 있으실 겁니다.  

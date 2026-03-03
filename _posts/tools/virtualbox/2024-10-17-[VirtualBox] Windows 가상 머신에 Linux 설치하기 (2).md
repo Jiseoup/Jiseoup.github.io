@@ -6,6 +6,9 @@ last_modified_at: 2024-10-17 23:32:00 +09:00
 categories: [Tools, VirtualBox]
 tags: [virtualbox, linux, ubuntu]
 image: "/assets/img/title/tools/virtualbox/logo.png"
+redirect_from:
+    - /posts/VirtualBox-Windows-가상-머신에-Linux-설치하기-(2)/
+    - /posts/VirtualBox-Windows-%EA%B0%80%EC%83%81-%EB%A8%B8%EC%8B%A0%EC%97%90-Linux-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-(2)/
 ---
 
 {% include series/virtualbox-setup.html %}

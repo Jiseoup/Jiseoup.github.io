@@ -6,6 +6,9 @@ last_modified_at: 2025-04-10 01:59:00 +09:00
 categories: [Server, REST API]
 tags: [rest-api, design]
 image: "/assets/img/title/server/rest_api/title.png"
+redirect_from:
+    - /posts/REST,-RESTful-API란-개념-살펴보기/
+    - /posts/REST,-RESTful-API%EB%9E%80-%EA%B0%9C%EB%85%90-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/
 ---
 
 웹 개발을 하다 보면 **REST API, RESTful API**라는 용어를 자주 접하게 됩니다.  

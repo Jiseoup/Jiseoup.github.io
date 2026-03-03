@@ -6,6 +6,9 @@ last_modified_at: 2025-03-17 17:16:00 +09:00
 categories: [Tools, Ventoy]
 tags: [ventoy, setup]
 image: "/assets/img/title/tools/ventoy/logo.png"
+redirect_from:
+    - /posts/Ventoy로-부팅-USB-만들기/
+    - /posts/Ventoy%EB%A1%9C-%EB%B6%80%ED%8C%85-USB-%EB%A7%8C%EB%93%A4%EA%B8%B0/
 ---
 
 오늘은 Windows 10, Windows 11, Ubuntu 24.04 등, **여러 운영체제를 하나의 부팅 USB에서 설치할 수 있는 방법**에 대해 이야기해보려고 합니다. 사용할 프로그램은 **`Ventoy`** 라는 프로그램으로, 아주 간편하게 부팅 USB를 만들 수 있도록 도와줍니다.  

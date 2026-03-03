@@ -10,6 +10,8 @@ image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_3.p
 redirect_from:
     - /posts/Django-REST-Framework-개발부터-배포까지-(3)-Django-ORM-파헤치기/
     - /posts/Django-REST-Framework-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-(3)-Django-ORM-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/
+    - /posts/DRF-Django-REST-Framework-개발부터-배포까지-(3)-Django-ORM-파헤치기/
+    - /posts/DRF-Django-REST-Framework-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-(3)-Django-ORM-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/
 ---
 
 이번 포스팅에서는 본격적인 API 개발에 앞서, **Django ORM**의 기본 사용법을 간단히 살펴보겠습니다.  

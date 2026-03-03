@@ -6,6 +6,9 @@ last_modified_at: 2024-10-18 00:03:00 +09:00
 categories: [Server, Ubuntu]
 tags: [ubuntu, security]
 image: "/assets/img/title/server/ubuntu/logo_designed_1.png"
+redirect_from:
+    - /posts/Ubuntu-sudo-권한-부여하기/
+    - /posts/Ubuntu-sudo-%EA%B6%8C%ED%95%9C-%EB%B6%80%EC%97%AC%ED%95%98%EA%B8%B0/
 ---
 
 Ubuntu에서 유저에게 sudo 권한을 부여하는 방법은 매우 간단합니다.  

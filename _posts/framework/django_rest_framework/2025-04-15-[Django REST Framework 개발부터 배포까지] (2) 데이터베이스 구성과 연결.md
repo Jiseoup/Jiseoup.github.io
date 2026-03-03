@@ -10,6 +10,8 @@ image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_2.p
 redirect_from:
     - /posts/Django-REST-Framework-개발부터-배포까지-(2)-데이터베이스-구성과-연결/
     - /posts/Django-REST-Framework-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-(2)-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B5%AC%EC%84%B1%EA%B3%BC-%EC%97%B0%EA%B2%B0/
+    - /posts/DRF-Django-REST-Framework-개발부터-배포까지-(2)-데이터베이스-구성과-연결/
+    - /posts/DRF-Django-REST-Framework-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-(2)-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B5%AC%EC%84%B1%EA%B3%BC-%EC%97%B0%EA%B2%B0/
 ---
 
 이전 포스팅에서는 Django 프로젝트를 위한 개발 환경 구성을 살펴보았습니다.  

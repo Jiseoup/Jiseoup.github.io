@@ -6,6 +6,9 @@ last_modified_at: 2025-06-11 23:27:00 +09:00
 categories: [Security, JWT]
 tags: [jwt, security]
 image: "/assets/img/title/security/jwt/logo.png"
+redirect_from:
+    - /posts/JWT(JSON Web Token)란-무엇인가/
+    - /posts/JWT(JSON-Web-Token)%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/
 ---
 
 ## 1. JWT 란?

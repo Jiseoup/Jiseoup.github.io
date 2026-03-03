@@ -6,6 +6,9 @@ last_modified_at: 2025-04-04 03:34:00 +09:00
 categories: [Server, Linux]
 tags: [linux, wsl2, vscode]
 image: "/assets/img/title/server/linux/wsl2.png"
+redirect_from:
+    - /posts/Windows-11-WSL2-설치와-VSCode-연동/
+    - /posts/Windows-11-WSL2-%EC%84%A4%EC%B9%98%EC%99%80-VSCode-%EC%97%B0%EB%8F%99/
 ---
 
 이번 포스팅에서는 WSL2를 사용해 Windows 환경에 Linux 환경을 구축하는 방법을 소개합니다.  

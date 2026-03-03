@@ -6,6 +6,9 @@ last_modified_at: 2025-11-27 20:17:00 +09:00
 categories: [Server, Architecture]
 tags: [architecture, message-broker]
 image: "/assets/img/title/server/architecture/message_broker.png"
+redirect_from:
+    - /posts/메시지-브로커(Message-Broker)-알아보기/
+    - /posts/%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B8%8C%EB%A1%9C%EC%BB%A4(Message-Broker)-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/
 ---
 
 ## **1. 메시지 브로커(Message Broker) 란?**
