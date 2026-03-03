@@ -6,8 +6,11 @@ last_modified_at: 2024-11-23 01:31:00 +09:00
 categories: [Database, PostgreSQL]
 tags: [postgresql, sql]
 image: "/assets/img/title/database/postgresql/alter_table.png"
+redirect_from:
+    - /posts/PostgreSQL-ALTER-TABLE-주요-명령어-총정리/
+    - /posts/PostgreSQL-ALTER-TABLE-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC/
 ---
-ckarh
+
 ### **1. 테이블 수정**
 ---
 #### 1-1. 테이블명 변경

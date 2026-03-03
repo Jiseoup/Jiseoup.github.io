@@ -6,6 +6,9 @@ last_modified_at: 2023-04-11 10:06:00 +09:00
 categories: [Database, PostgreSQL]
 tags: [postgresql, database, setup]
 image: "/assets/img/title/database/postgresql/logo_designed_1.png"
+redirect_from:
+    - /posts/PostgreSQL의-장점-소개-및-설치/
+    - /posts/PostgreSQL%EC%9D%98-%EC%9E%A5%EC%A0%90-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98/
 ---
 
 오늘은 관계형 데이터베이스(RDBMS)의 선두 주자 **Postgresql**의 **장점**과 **설치 방법**에 대해 알아보겠습니다.  

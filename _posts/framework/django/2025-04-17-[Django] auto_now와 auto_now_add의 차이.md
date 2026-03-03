@@ -6,6 +6,9 @@ last_modified_at: 2025-04-17 20:33:00 +09:00
 categories: [Framework, Django]
 tags: [django, orm]
 image: "/assets/img/title/framework/django/logo_designed_1.png"
+redirect_from:
+    - /posts/Django-auto_now와-auto_now_add의-차이/
+    - /posts/Django-auto_now%EC%99%80-auto_now_add%EC%9D%98-%EC%B0%A8%EC%9D%B4/
 ---
 
 ## 1. auto_now와 auto_now_add란?

@@ -6,6 +6,9 @@ last_modified_at: 2025-04-17 19:07:00 +09:00
 categories: [Database, PostgreSQL]
 tags: [postgresql, database, troubleshooting]
 image: "/assets/img/title/database/postgresql/logo_designed_1.png"
+redirect_from:
+    - /posts/PostgreSQL-시퀀스(Sequence)-값-변경하기/
+    - /posts/PostgreSQL-%EC%8B%9C%ED%80%80%EC%8A%A4(Sequence)-%EA%B0%92-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0/
 ---
 
 ## 1. 시퀀스(Sequence)란?

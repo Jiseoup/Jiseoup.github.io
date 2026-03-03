@@ -6,6 +6,9 @@ last_modified_at: 2023-05-08 23:51:00 +09:00
 categories: [Database, PostgreSQL]
 tags: [postgresql, pgadmin, troubleshooting]
 image: "/assets/img/title/database/postgresql/pgadmin.png"
+redirect_from:
+    - /posts/pgAdmin-PostgreSQL-Binary-Path-설정하기/
+    - /posts/pgAdmin-PostgreSQL-Binary-Path-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/
 ---
 
 pgAdmin에서 **`Please configure the PostgreSQL Binary Path in the Preferences dialog.`** 에러가 발생했을 때, PostgreSQL Binary Path를 설정하는 방법을 알아보겠습니다.  

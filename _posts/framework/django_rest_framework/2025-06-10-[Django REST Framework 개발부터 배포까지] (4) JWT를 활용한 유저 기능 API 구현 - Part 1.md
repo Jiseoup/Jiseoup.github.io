@@ -7,6 +7,9 @@ last_modified_at: 2025-06-10 17:00:00 +09:00
 categories: [Framework, Django REST Framework]
 tags: [django, drf, jwt, rest-api]
 image: "/assets/img/title/framework/django_rest_framework/drf_project/lesson_4.png"
+redirect_from:
+    - /posts/Django-REST-Framework-개발부터-배포까지-(4)-JWT를-활용한-유저-기능-API-구현-Part-1/
+    - /posts/Django-REST-Framework-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-(4)-JWT%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%A0%80-%EA%B8%B0%EB%8A%A5-API-%EA%B5%AC%ED%98%84-Part-1/
 ---
 
 이번 포스팅에서는 **회원 가입 및 탈퇴, 로그인, 로그아웃**과 같은 유저 관련 기능을 구현하기 위한 준비 단계로,

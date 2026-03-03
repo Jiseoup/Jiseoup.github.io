@@ -6,6 +6,9 @@ last_modified_at: 2024-11-21 22:23:00 +09:00
 categories: [Database, PostgreSQL]
 tags: [postgresql, database]
 image: "/assets/img/title/database/postgresql/logo_designed_2.png"
+redirect_from:
+    - /posts/PostgreSQL-데이터베이스-백업-및-복원/
+    - /posts/PostgreSQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B0%B1%EC%97%85-%EB%B0%8F-%EB%B3%B5%EC%9B%90/
 ---
 
 이번 포스팅에서는 PostgreSQL에서 데이터베이스 백업 및 복원하는 방법에 대해 알아보겠습니다.  

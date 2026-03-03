@@ -6,6 +6,9 @@ last_modified_at: 2024-11-06 01:42:00 +09:00
 categories: [Database, PostgreSQL]
 tags: [postgresql, database]
 image: "/assets/img/title/database/postgresql/logo_designed_2.png"
+redirect_from:
+    - /posts/PostgreSQL-유저-생성-및-권한-부여/
+    - /posts/Postgresql-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EA%B6%8C%ED%95%9C-%EB%B6%80%EC%97%AC/
 ---
 
 이번 포스팅에서는 PostgreSQL 데이터베이스에서 유저 생성과 권한 부여 방법에 대해 알아보겠습니다.  

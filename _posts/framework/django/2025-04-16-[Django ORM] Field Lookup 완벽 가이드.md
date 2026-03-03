@@ -6,6 +6,9 @@ last_modified_at: 2025-04-16 02:12:00 +09:00
 categories: [Framework, Django]
 tags: [django, orm]
 image: "/assets/img/title/framework/django/orm_field_lookup.png"
+redirect_from:
+    - /posts/Django-ORM-Field-Lookup-완벽-가이드/
+    - /posts/Django-ORM-Field-Lookup-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/
 ---
 
 Django ORM은 등호 기호(=)를 이용한 기본적인 비교 외에도, 다양한 **Field Lookup**을 제공합니다.  

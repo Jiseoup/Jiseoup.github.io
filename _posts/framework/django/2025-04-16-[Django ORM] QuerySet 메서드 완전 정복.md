@@ -6,6 +6,9 @@ last_modified_at: 2025-04-16 20:16:00 +09:00
 categories: [Framework, Django]
 tags: [django, orm]
 image: "/assets/img/title/framework/django/orm_queryset_method.png"
+redirect_from:
+    - /posts/Django-ORM-QuerySet-메서드-완전-정복/
+    - /posts/Django-ORM-QuerySet-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5/
 ---
 
 Django 프로젝트를 진행하다 보면, 대부분 ORM을 통해 데이터베이스와 상호작용하게 됩니다.  

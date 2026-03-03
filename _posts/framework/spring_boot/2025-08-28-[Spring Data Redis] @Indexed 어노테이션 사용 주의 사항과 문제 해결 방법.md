@@ -6,6 +6,9 @@ last_modified_at: 2025-08-28 22:00:00 +09:00
 categories: [Framework, Spring Boot]
 tags: [spring, redis, troubleshooting]
 image: "/assets/img/title/framework/spring_boot/spring_data_redis_indexed.png"
+redirect_from:
+    - /posts/Spring-Data-Redis-@Indexed-어노테이션-사용-주의-사항과-문제-해결-방법/
+    - /posts/Spring-Data-Redis-@Indexed-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-%EC%82%AC%EC%9A%A9-%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD%EA%B3%BC-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/
 ---
 
 **[Spring Data Redis](https://spring.io/projects/spring-data-redis)**는 엔터티를 Redis에 매핑할 때, 일반적으로 **`@Id`로 지정된 키를 기준으로만 `findById()`와 같은 JPA 스타일의 CRUD 메서드를 지원**합니다.  

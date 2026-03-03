@@ -6,6 +6,9 @@ last_modified_at: 2025-04-10 02:04:00 +09:00
 categories: [Framework, Django]
 tags: [django, troubleshooting]
 image: "/assets/img/title/framework/django/logo_designed_3.png"
+redirect_from:
+    - /posts/Django-runserver-포트-변경과-외부-접속-허용/
+    - /posts/Django-runserver-%ED%8F%AC%ED%8A%B8-%EB%B3%80%EA%B2%BD%EA%B3%BC-%EC%99%B8%EB%B6%80-%EC%A0%91%EC%86%8D-%ED%97%88%EC%9A%A9/
 ---
 
 Django 개발 서버는 기본적으로 8000번 포트를 사용합니다.  

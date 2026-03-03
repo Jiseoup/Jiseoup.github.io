@@ -6,6 +6,9 @@ last_modified_at: 2025-11-17 22:27:00 +09:00
 categories: [Database, Redis]
 tags: [redis, performance]
 image: "/assets/img/title/database/redis/logo_designed_1.png"
+redirect_from:
+    - /posts/Redis-KEYS-대신-SCAN을-써야-하는-이유/
+    - /posts/Redis-KEYS-%EB%8C%80%EC%8B%A0-SCAN%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/
 ---
 
 Redis를 사용하다 보면 특정 패턴의 키를 찾아야 하는 상황이 자주 발생합니다.  
