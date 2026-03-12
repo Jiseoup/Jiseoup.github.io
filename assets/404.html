@@ -9,6 +9,58 @@ redirect_from:
   - /posts/
 ---
 
-{% include lang.html %}
-
-<p class="lead">{{ site.data.locales[lang].not_found.statement }}</p>
+<div style="text-align: center; padding: 1rem 0 2rem">
+  <img
+    src="/assets/img/pages/404.png"
+    alt="404"
+    style="max-width: 800px; width: 100%; margin-bottom: 2rem"
+  />
+  <p
+    style="
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: var(--heading-color);
+      margin: 0 0 0.5rem;
+    "
+  >
+    페이지를 찾을 수 없습니다.
+  </p>
+  <p style="font-size: 1rem; color: var(--text-muted-color); margin: 0 0 2rem">
+    요청하신 페이지가 사라졌거나 이동되었습니다.
+  </p>
+  <div
+    style="
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    "
+  >
+    <a
+      href="/"
+      style="
+        padding: 0.5rem 1.6rem;
+        border: 1px solid var(--btn-border-color);
+        border-radius: 50px;
+        font-size: 0.9rem;
+        color: var(--text-color);
+        text-decoration: none;
+        background: var(--button-bg);
+      "
+      >홈으로</a
+    >
+    <a
+      href="/archives/"
+      style="
+        padding: 0.5rem 1.6rem;
+        border: 1px solid var(--btn-border-color);
+        border-radius: 50px;
+        font-size: 0.9rem;
+        color: var(--text-color);
+        text-decoration: none;
+        background: var(--button-bg);
+      "
+      >전체 글 보기</a
+    >
+  </div>
+</div>
