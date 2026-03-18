@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 이번 포스팅에서는 **회원 가입 및 탈퇴, 로그인, 로그아웃**과 같은 유저 관련 기능을 구현하기 위한 준비 단계로,
-이를 [**JWT(JSON Web Token)**](https://devpro.kr/posts/what-is-jwt/) 기반 인증 방식으로 구현하기 위한 **개발 환경 구성**부터 다뤄보도록 하겠습니다.  
+이를 [**JWT(JSON Web Token)**](/posts/what-is-jwt/) 기반 인증 방식으로 구현하기 위한 **개발 환경 구성**부터 다뤄보도록 하겠습니다.  
 
 {% include series/drf-project.html %}
 

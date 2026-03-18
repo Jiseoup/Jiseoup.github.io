@@ -47,11 +47,11 @@ touch orm_practice/delete.py
 이제 다음 챕터부터 본격적으로 Django ORM을 활용한 CRUD 기능 구현을 실습해보겠습니다.  
 
 모든 실습 예제는 **이전 포스팅에서 생성한 `Post` 모델과 `슈퍼유저 계정`이 존재한다는 전제 하에 작성**되었습니다.  
-실습에 앞서 관련 데이터가 준비되어 있지 않다면, [이전 포스팅](https://devpro.kr/posts/drf-project-part2/)을 참고하여 환경을 먼저 구성하시는 것을 추천드립니다.  
+실습에 앞서 관련 데이터가 준비되어 있지 않다면, [이전 포스팅](/posts/drf-project-part2/)을 참고하여 환경을 먼저 구성하시는 것을 추천드립니다.  
 
 > **아래 포스팅을 함께 참고하시면 Django ORM의 구조와 기능에 대해 더욱 깊이 이해하실 수 있습니다.**  
-> 👉 [[Django ORM] QuerySet 메서드 완전 정복](https://devpro.kr/posts/django-orm-queryset/)  
-> 👉 [[Django ORM] Field Lookup 완벽 가이드](https://devpro.kr/posts/django-field-lookup/)  
+> 👉 [[Django ORM] QuerySet 메서드 완전 정복](/posts/django-orm-queryset/)  
+> 👉 [[Django ORM] Field Lookup 완벽 가이드](/posts/django-field-lookup/)  
 {: .prompt-tip }
 
 ## 3. 데이터 생성 (CREATE)

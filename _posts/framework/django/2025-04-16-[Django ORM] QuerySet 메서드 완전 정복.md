@@ -203,7 +203,7 @@ Student.objects.filter(Q(name='John Doe') & Q(gender='M'))
 Student.objects.filter(~Q(gender='F'))
 ```
 
-> 더 다양한 조건 조회와 필드별 비교 방법이 궁금하다면, [[Django ORM] Field Lookup 완벽 가이드](https://devpro.kr/posts/django-field-lookup/) 포스팅을 함께 참고해보세요.  
+> 더 다양한 조건 조회와 필드별 비교 방법이 궁금하다면, [[Django ORM] Field Lookup 완벽 가이드](/posts/django-field-lookup/) 포스팅을 함께 참고해보세요.  
 {: .prompt-tip }
 
 ### **3. 데이터 수정 (Update)**

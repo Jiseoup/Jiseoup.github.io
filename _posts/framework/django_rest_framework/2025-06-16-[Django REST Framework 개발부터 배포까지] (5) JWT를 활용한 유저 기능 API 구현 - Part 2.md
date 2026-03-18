@@ -14,7 +14,7 @@ redirect_from:
 
 이전 포스팅의 DRF 개발 환경 구성에 이어, 이번에는 본격적으로 유저 기능 API를 구현해보도록 하겠습니다.  
 유저 기능 API는 크게 **회원 가입과 탈퇴, 로그인, 로그아웃으로 구성**됩니다.  
-추가로, 로그인과 로그아웃 기능은 [**JWT(JSON Web Token)**](https://devpro.kr/posts/what-is-jwt/) 기반 인증 방식으로 구현할 것이기 때문에, **Access Token을 재발급하는 API도 함께 구현**할 예정입니다.  
+추가로, 로그인과 로그아웃 기능은 [**JWT(JSON Web Token)**](/posts/what-is-jwt/) 기반 인증 방식으로 구현할 것이기 때문에, **Access Token을 재발급하는 API도 함께 구현**할 예정입니다.  
 
 {% include series/drf-project.html %}
 
