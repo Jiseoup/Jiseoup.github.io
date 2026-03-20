@@ -8,7 +8,7 @@ tags: [data-structure, algorithm, stack]
 image: "/assets/img/title/computer_science/data_structure/prefix_infix_postfix.png"
 ---
 
-> [전위(Prefix), 후위(Postfix) 연산자의 차이](/posts/prefix-vs-postfix-operator) 포스팅을 함께 참고하시면 좋습니다.  
+> [전위(Prefix), 후위(Postfix) 연산자의 차이](/posts/prefix-vs-postfix-operator/) 포스팅을 함께 참고하시면 좋습니다.  
 {: .prompt-info }
 
 수식을 표현하는 방법에는 연산자의 위치에 따라 **전위(Prefix)**, **중위(Infix)**, **후위(Postfix)** 표기법이 있습니다.  

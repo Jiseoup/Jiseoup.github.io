@@ -11,7 +11,7 @@ image: "/assets/img/title/server/linux/logo_designed_5.png"
 리눅스 서버를 운영하다 보면 비정상적으로 동작하는 프로세스를 종료하거나, 포트를 점유한 프로세스를 강제로 종료해야 하는 상황이 발생합니다.  
 이번 포스팅에서는 프로세스를 종료하는 명령어들과 시그널의 개념을 정리해보겠습니다.  
 
-> 프로세스 확인 방법은 [[Linux] 프로세스 확인 명령어 모음 (ps, top, lsof, ss)](/posts/linux-process-check) 포스팅을 참고해주세요.  
+> 프로세스 확인 방법은 [[Linux] 프로세스 확인 명령어 모음 (ps, top, lsof, ss)](/posts/linux-process-check/) 포스팅을 참고해주세요.  
 {: .prompt-info }
 
 ## 1. 시그널(Signal)

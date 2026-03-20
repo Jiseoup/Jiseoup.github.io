@@ -8,7 +8,7 @@ tags: [basics, syntax]
 image: "/assets/img/title/programming/basics/prefix_postfix_operator.png"
 ---
 
-> [전위(Prefix), 중위(Infix), 후위(Postfix) 표기법](/posts/prefix-infix-postfix) 포스팅을 함께 참고하시면 좋습니다.  
+> [전위(Prefix), 중위(Infix), 후위(Postfix) 표기법](/posts/prefix-infix-postfix/) 포스팅을 함께 참고하시면 좋습니다.  
 {: .prompt-info }
 
 증감 연산자 **`++i`** 와 **`i++`**는 비슷해 보이지만, 연산자의 위치에 따라 값이 반환되는 시점이 달라집니다.  

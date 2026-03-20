@@ -11,7 +11,7 @@ image: "/assets/img/title/server/linux/logo_designed_4.png"
 리눅스 서버를 운영하다 보면 현재 실행 중인 프로세스를 확인해야 하는 상황이 자주 발생합니다.  
 이번 포스팅에서는 프로세스를 확인하는 명령어들을 용도별로 정리해보겠습니다.  
 
-> 프로세스 종료 방법은 [[Linux] 프로세스 종료 명령어 모음 (kill, pkill, fuser)](/posts/linux-process-kill) 포스팅을 참고해주세요.  
+> 프로세스 종료 방법은 [[Linux] 프로세스 종료 명령어 모음 (kill, pkill, fuser)](/posts/linux-process-kill/) 포스팅을 참고해주세요.  
 {: .prompt-info }
 
 ## 1. 프로세스 직접 조회
