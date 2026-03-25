@@ -3,9 +3,9 @@ title: "Google Search Console과 GitHub 블로그 연동하기"
 slug: google-search-console
 date: 2025-04-17 23:37:00 +09:00
 last_modified_at: 2025-04-17 23:37:00 +09:00
-categories: [Blog, Google Search Console]
-tags: [google-search-console, github-blog, seo]
-image: "/assets/img/title/blog/google_search_console/logo.png"
+categories: [Blog, Google]
+tags: [github-blog, seo, google]
+image: "/assets/img/title/blog/google/google_search_console.png"
 redirect_from:
     - /posts/Google-Search-Console과-GitHub-블로그-연동하기/
     - /posts/Google-Search-Console%EA%B3%BC-GitHub-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/
@@ -22,27 +22,27 @@ redirect_from:
 ---
 먼저 [Google Search Console](https://search.google.com/search-console/about) 사이트에 접속하여 **`시작하기`** 버튼을 눌러줍니다.  
 
-![gsc_main](/assets/img/posts/blog/google_search_console/gsc_main.png)  
+![main](/assets/img/posts/blog/google/google_search_console/main.png)  
 
 다음으로 본인 블로그와 맞는 속성 유형을 선택해 정보를 입력합니다.  
 저는 개인 도메인을 사용중이기 때문에, 도메인 속성 유형으로 정보를 입력해주었습니다.  
 
-![gsc_start](/assets/img/posts/blog/google_search_console/gsc_start.png)  
+![start](/assets/img/posts/blog/google/google_search_console/start.png)  
 
 이제 DNS 레코드를 통해 도메인 소유권을 확인할 차례입니다.  
 DNS 레코드를 복사하고, 도메인 제공업체에 로그인하여 DNS 설정에 반영합니다.  
 
-![gsc_dns_record](/assets/img/posts/blog/google_search_console/gsc_dns_record.png)  
+![dns_record](/assets/img/posts/blog/google/google_search_console/dns_record.png)  
 
 DNS 설정 반영 후 **`확인`** 버튼을 클릭하면, Google에서 소유권 인증 절차를 밟습니다.  
 DNS를 올바르게 설정하였다면, 아래와 같이 소유권이 확인되었다는 메시지를 확인하실 수 있습니다.  
 
-![gsc_success](/assets/img/posts/blog/google_search_console/gsc_success.png)  
+![success](/assets/img/posts/blog/google/google_search_console/success.png)  
 
 모든 인증이 끝나면 아래처럼 Google Search Console 대시보드에 접속할 수 있게 됩니다.  
 데이터는 보통 24~48시간 내에 반영되기 시작하니, 다음 날까지 여유롭게 기다리시면 됩니다.  
 
-![gsc_dashboard](/assets/img/posts/blog/google_search_console/gsc_dashboard.png)  
+![dashboard](/assets/img/posts/blog/google/google_search_console/dashboard.png)  
 
 ## 3. 사이트맵(Sitemap) 등록
 ---
@@ -62,7 +62,7 @@ plugins:
 
 위 설정을 추가한 뒤 수정 내역을 커밋하고 배포하면, Jekyll이 자동으로 사이트맵을 생성하게 됩니다.  
 
-![sitemap](/assets/img/posts/blog/google_search_console/sitemap.png)  
+![sitemap](/assets/img/posts/blog/google/google_search_console/sitemap.png)  
 
 사이트맵은 아래 경로에서 확인할 수 있습니다.  
 ```
@@ -73,7 +73,7 @@ https://도메인/sitemap.xml
 사이트맵이 성공적으로 생성되었다면, 마지막으로 Google Search Console에 제출할 차례입니다.  
 Google Search Console 대시보드의 `Sitemaps` 탭으로 이동하여 본인의 사이트맵 주소를 등록합니다.  
 
-![gsc_add_sitemap](/assets/img/posts/blog/google_search_console/gsc_add_sitemap.png)  
+![add_sitemap](/assets/img/posts/blog/google/google_search_console/add_sitemap.png)  
 
 사이트맵이 성공적으로 등록되면 위와 같이 제출된 사이트맵 리스트에 성공 상태로 나타나게 됩니다.  
 
