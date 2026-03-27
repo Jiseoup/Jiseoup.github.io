@@ -1,25 +1,12 @@
 ---
 title: "Google Search Console과 Google Analytics 연결하기"
 slug: google-search-console-analytics
-date: 2026-03-27 15:35:00 +09:00
-last_modified_at: 2026-03-27 15:35:00 +09:00
+date: 2026-03-27 21:58:00 +09:00
+last_modified_at: 2026-03-27 21:58:00 +09:00
 categories: [Blog, Google]
 tags: [github-blog, seo, analytics, google]
 image: "/assets/img/title/blog/google/google_search_console_analytics.png"
 ---
-
-<!--
-TODO
-
-1. 상단 관련 게시글 링크 내용 수정
-2. 날짜/시간 수정
--->
-
-<!-- > Google Search Console, Google Analytics 설정 방법은 아래 게시글을 참고해주세요.   -->
-<!-- > 아래 포스팅을 참고하시면 
-> * [Google Search Console과 GitHub 블로그 연동하기](/posts/google-search-console/)
-> * [Google Analytics와 GitHub 블로그 연동하기](/posts/google-analytics/)
-{: .prompt-info } -->
 
 ## 1. 연결하면 무엇이 좋을까?
 ---
@@ -34,6 +21,11 @@ TODO
 - **평균 게재순위:** 특정 키워드에 대한 내 페이지의 평균 검색 순위를 알 수 있습니다.  
 
 이러한 데이터를 Google Analytics의 사용자 행동 데이터와 함께 분석하면, **어떤 키워드로 유입된 사용자가 실제로 어떤 행동을 하는지**까지 파악할 수 있어 콘텐츠 전략 수립에 큰 도움이 됩니다.  
+
+> Google Search Console과 Google Analytics의 설정 방법은 아래 게시글을 참고하면 좋습니다.  
+> - [Google Search Console과 GitHub 블로그 연동하기](/posts/google-search-console/)  
+> - [Google Analytics와 GitHub 블로그 연동하기](/posts/google-analytics/)  
+{: .prompt-info }
 
 ## 2. Google Search Console에서 연결하기
 ---
